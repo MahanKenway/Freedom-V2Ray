@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="V2Ray Collector Pro Banner" width="100%">
+</p>
+
 # 🚀 V2Ray Collector Pro (Auto-Update)
 
 [English](#english) | [فارسی](#فارسی)
