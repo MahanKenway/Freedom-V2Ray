@@ -55,4 +55,4 @@ Want to help? Please see our [Contributing Guide](CONTRIBUTING.md).
 می‌خواهید کمک کنید؟ لطفاً [راهنمای مشارکت](CONTRIBUTING.md) را مطالعه کنید.
 
 ---
-*Created by Manus AI for MahanKenway*
+*Created by MahanKenway*
