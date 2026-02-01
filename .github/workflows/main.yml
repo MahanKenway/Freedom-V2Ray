@@ -14,12 +14,10 @@ jobs:
       - run: pip install requests
       - name: Run Collector
         env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          
         run: python scripts/collector.py
       - run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+     
           git add configs/*.txt
           git commit -m "Update V2Ray configs [$(date)]" || echo "No changes"
           git push
