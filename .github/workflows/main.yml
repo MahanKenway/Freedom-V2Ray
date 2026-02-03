@@ -39,7 +39,10 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           PYTHONUNBUFFERED: '1'
+
+        run: python -m src.main
         run: python src/main.py
+
 
       - name: Check for changes
         id: check_changes
