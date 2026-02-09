@@ -11,22 +11,45 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       issues: write
-      contents: write
+      contents: read
+      actions: write
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
-        with:
-          bun-version: latest
+      - name: Setup jq
+        run: sudo apt-get install -y jq
 
-      - name: Install dependencies
-        run: bun install
-
-      - name: Run Agent
+      - name: Run AI Agent
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: bunx pi --issue ${{ github.event.issue.number }}
+          OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          # خواندن وضعیت کانفیگ‌ها
+          CONFIG_INFO="هنوز کانفیگی نیست. بنویس /update"
+          if [ -f "configs/all_configs.json" ]; then
+            COUNT=$(cat configs/all_configs.json | jq '. | length')
+            CONFIG_INFO="$COUNT کانفیگ موجوده"
+          fi
+          
+          # ارسال به OpenRouter
+          RESPONSE=$(curl -s -X POST https://openrouter.ai/api/v1/chat/completions \
+            -H "Authorization: Bearer $OPENROUTER_KEY" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"model\": \"deepseek/deepseek-chat:free\",
+              \"messages\": [
+                {\"role\": \"system\", \"content\": \"تو GitClaw-V2Ray هستی. $CONFIG_INFO. دستورات: /update برای آپدیت\"},
+                {\"role\": \"user\", \"content\": \"${ISSUE_BODY}\"}
+              ]
+            }" | jq -r '.choices[0].message.content')
+          
+          # ارسال پاسخ
+          curl -X POST \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "{\"body\":\"$RESPONSE\"}" \
+            https://api.github.com/repos/${{ github.repository }}/issues/${ISSUE_NUMBER}/comments
