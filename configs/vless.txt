@@ -1,6 +1,8 @@
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#🇩🇪 DE | 94.130.224.65
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 GB | 54.38.214.29
 vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@cf.xn--9kqp42aims.top:443?security=tls&type=ws&path=/dogsg&host=dog-sg1.lxy1015.top&sni=dog-sg1.lxy1015.top&fp=edge#🇨🇦 CA | 104.18.43.89
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.242.3:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.242.3
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.195.22:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.195.22
 vless://084dac85-a82a-4462-9c43-13f0dcf7467c@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪 DE | 116.203.68.238
 vless://084dac85-a82a-4462-9c43-13f0dcf7467c@mail.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪 DE | 46.224.39.71
 vless://084dac85-a82a-4462-9c43-13f0dcf7467c@mail.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪 DE | 46.224.41.221
@@ -107,7 +109,6 @@ vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&
 vless://79df85dd-cb40-4b32-828e-f38d918d85e3@fast4.zone-server-irani.ir:80?mode=auto&path=/magicmizban?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false, "xmux": {"maxConcurrency": "16-32", "maxConnections": 0, "cMaxReuseTimes": "64-128", "cMaxLifetimeMs": 0, "hMaxRequestTimes": "800-900", "hKeepAlivePeriod": 0}}&host=amirtoska.global.ssl.fastly.net&type=xhttp#🇨🇦 CA | 151.101.67.8
 vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#🇨🇭 CH | 185.227.149.123
 vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#🇨🇭 CH | 185.227.149.123
-vless://7f3c1a67-4de0-4753-a992-1b4c20f480be@alfaproxy-bg.ir404.site:80?mode=auto&path=/&security=none&encryption=none&host=localhost&type=xhttp@Freeneetir 🎈#🇧🇬 BG | 185.246.131.143
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://82d20eb4-0ff5-4175-967e-a6c3370ff8dd@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#🇲🇩 MD | 93.185.165.50
@@ -118,7 +119,6 @@ vless://8443822d-6b68-4af2-d096-c03207ed880d@chatgpt.com:2087?encryption=none&ty
 vless://860d8f27-ed60-4791-b6a0-e1e471d7ee6d@chatgpt.com:80?encryption=none&type=ws&host=NICE-MaNAgEmeNts6CV0rMC2T.ONeEat.co.&path=/?ed&security=none#🇨🇦 CA | 104.18.32.47
 vless://896f6d8c-eef2-98ba-899c-a13bbdb7a345@fi1.mahboob.top:2086?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.182.178
 vless://8b4b9ef8-a5b7-46f5-a070-4ba9b33d7545@37.27.240.154:42538?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 37.27.240.154
-vless://8b4b9ef8-a5b7-46f5-a070-4ba9b33d7545@fans1.mahoshid.ir:9560?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇮🇷 IR | 94.184.21.166
 vless://8d5ebe3f-d0c5-45f2-9dde-21ee29fc0ee6@chatgpt.com:443?mode=auto&security=tls&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=fin.moell13.org#🇨🇦 CA | 104.18.32.47
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇺🇸 US | 45.82.251.208
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.208
@@ -192,6 +192,7 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?encryption=none&s
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#🇨🇦 CA | 104.21.14.158
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#🇨🇦 CA | 104.21.14.158
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz&security=tls&encryption=none&alpn=http/1.1&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#🇨🇦 CA | 104.21.14.158
+vless://dd7d51b3-47e7-4a2d-b2f8-1c6be58d4a19@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
 vless://dd7d51b3-47e7-4a2d-b2f8-1c6be58d4a19@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇨🇭 CH | 213.176.18.99
 vless://dd8144c8-f533-416e-8c0a-48c06efc4230@104.21.31.235:2087?path=/eyJqdW5rIjoiWmdWTXIxZTR5RUYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=rapid-firefly-f34e.hicini3619.workers.dev&fp=chrome&type=ws&sni=RApid-FIrEfLY-f34E.HicinI3619.wORKErs.DeV#🇨🇦 CA | 104.21.31.235
 vless://e02a83a6-16c9-4eaf-d40e-1387028d93a0@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=nmcior945cnfastmciedjed834.global.ssl.fastly.net&type=xhttp#🇨🇦 CA | 151.101.3.8
