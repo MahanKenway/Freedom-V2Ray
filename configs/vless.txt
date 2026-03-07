@@ -47,6 +47,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.197.183.219:443?path=/?ed=2560&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇩🇪 DE | 159.223.24.65
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇨🇦 CA | 162.159.12.151
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.238:2096?path=/?ed=2560&tm🇨🇳+@i2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#🇺🇸 US | 216.205.52.238
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 40.160.6.133
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🏴‍☠️ UN | 40.160.6.133
 vless://647ae650-8374-42c8-80a2-3c04c529f6c2@ss.mrrnasr.ir:443?mode=auto&security=tls&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net.&type=xhttp&allowInsecure=1&sni=speedtest.net#🇮🇹 IT | 199.232.142.79
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&fp=chrome&insecure=1&type=ws&host=ca.adobe-connect.top&path=/#🇨🇦 CA | 104.16.250.22
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#🇬🇧 GB | 2a06:98c1:310b::ac40:9bd1
