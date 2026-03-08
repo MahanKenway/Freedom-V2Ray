@@ -1,4 +1,5 @@
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.101.85:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.101.85
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.115.99:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 52.29.115.99
 vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=80bab3a2.gon-7ye.pages.dev&type=ws&allowInsecure=1&sni=80bab3a2.gon-7ye.pages.dev#🇨🇦 CA | 162.159.152.17
 vless://0da640df-a497-4ec2-8705-707c44705f47@fastly1.hamrahflow.ir:443?path=/&security=tls&encryption=none&host=Valsiin.com&type=ws&sni=default.ssl.fastly.net#🇺🇸 US | 140.248.155.104
 vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=ax.tan3.ir&fp=chrome&type=xhttp&sni=ax.tan3.ir#🇨🇦 CA | 188.114.98.44
