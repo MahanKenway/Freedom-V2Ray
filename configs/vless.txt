@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.155.41:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.124.155.41
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.123.75:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.123.75
 vless://0786d258-03fb-43ce-a5a6-fa355c8f607a@www.speedtest.net:80?path=/dashboard?ed=2048&security=none&encryption=none&host=Ghgifyiddnejejejddjdid.Ftp3.2debian.org.www.speedtest.net.asve.Dash.Servicequry.Ir.&type=ws#🇨🇦 CA | 104.17.147.22
 vless://0786d258-03fb-43ce-a5a6-fa355c8f607a@www.speedtest.net:80?path=/dashboard?ed=2048&security=none&encryption=none&host=Ifiddnejejejddjdid.Ftp3.2debian.org.www.speedtest.net.Asve.Dash.Servicequry.Ir.&type=ws#🇨🇦 CA | 104.17.148.22
