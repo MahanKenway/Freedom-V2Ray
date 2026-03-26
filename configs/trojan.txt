@@ -49,7 +49,6 @@ trojan://8800c518-e68a-4441-a45c-cd67855784c8@jp2.sanfen001.pics:443?security=tl
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls#%F0%9F%8F%81RELAY-104.21.91.112-3943
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics#%F0%9F%8F%81RELAY-104.21.91.112-3944
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-45.149.92.71-5706
-trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#%F0%9F%87%AE%F0%9F%87%B9IT-57.131.38.150-4687
 trojan://92435aa8-f3b6-466a-ad58-c55cbb6d2acf@hinet.mjt000.com:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-45.149.92.71-4705
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.59.186-7992
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-119.193.20.248-2238
@@ -61,7 +60,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.u
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2260
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.165-2717
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.224-2454
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.224-2374
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2498
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.243-2329
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.243-2452
@@ -121,7 +119,7 @@ trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sn
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 CA | 172.64.152.23
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇨🇦 CA | 172.67.180.92
 trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇪🇸 ES | 185.18.250.245
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🇨🇦 CA | 2606:4700::6812:137
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🇨🇦 CA | 104.18.0.55
 trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4244
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-4897
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.254.136-8063
@@ -132,7 +130,9 @@ trojan://psycho@104.21.80.1:443?security=tls&sni=PSYchO.SueX12.Ir#%F0%9F%8F%81RE
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#%F0%9F%87%B1%F0%9F%87%B9LT-195.66.25.251-0245
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1756
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0247
-trojan://telegram-id-privatevpns@18.195.15.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.195.15.58
+trojan://telegram-id-directvpn@13.36.214.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.214.151
+trojan://telegram-id-privatevpns@13.36.214.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.214.151
+trojan://telegram-id-v2rayvpnchannel@13.36.214.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.214.151
 trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%2F&Host=jflsjlaf.pages.dev#%F0%9F%87%A6%F0%9F%87%B9AT-152.53.200.167-0837
 trojan://trojan@221.146.116.77:10003?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%2F&Host=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR-221.146.116.77-0839
 trojan://trojan@54.46.72.234:8025?security=tls&sni=jflsjlaf.pages.dev#%F0%9F%87%AD%F0%9F%87%B0HK-54.46.72.234-1672
