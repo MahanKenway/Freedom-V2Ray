@@ -142,5 +142,4 @@ trojan://trojan@152.53.60.198:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&p
 trojan://trojan@211.106.184.129:11310?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%2F&Host=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR-211.106.184.129-0854
 trojan://trojan@38.83.41.89:28080?security=tls&sni=jflsjlaf.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US-38.83.41.89-1682
 trojan://trojan@54.46.72.234:8025?security=tls&sni=jflsjlaf.pages.dev#%F0%9F%87%AD%F0%9F%87%B0HK-54.46.72.234-1681
-trojan://trojan@59.20.121.139:29999?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%2F&Host=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR-59.20.121.139-0842
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0272
