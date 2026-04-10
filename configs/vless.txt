@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.87.80:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.87.80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.102.35:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 52.58.102.35
 vless://0786d258-03fb-43ce-a5a6-fa355c8f607a@www.speedtest.net:80?path=/dashboard?ed=2048&security=none&encryption=none&host=Ghgifyiddnejejejddjdid.Ftp3.2debian.org.www.speedtest.net.asve.Dash.Servicequry.Ir.&type=ws#🇨🇦 CA | 104.17.148.22
 vless://0786d258-03fb-43ce-a5a6-fa355c8f607a@www.speedtest.net:80?path=/dashboard?ed=2048&security=none&encryption=none&host=Ifiddnejejejddjdid.Ftp3.2debian.org.www.speedtest.net.Asve.Dash.Servicequry.Ir.&type=ws#🇨🇦 CA | 104.17.147.22
@@ -57,7 +58,10 @@ vless://70d8031f-28ed-4602-9a76-9e0731b22af3@185.143.235.253:80?security=none&al
 vless://72fc1188-430f-4a3c-a64e-af9023819899@chatgpt.com:443?path=/eyJqdW5rIjoiYUlWS29Zd2xjZmdFZjk4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&host=002.w4wl4v1cptky.workers.dev&fp=chrome&type=ws&sni=002.w4WL4V1cpTKY.wOrKers.dev#🇨🇦 CA | 104.18.32.47
 vless://73829173-bb56-442b-a8d4-ec732c020945@188.114.98.0:2086?encryption=none&security=none&type=httpupgrade&host=a3ssa.vaslbsh.com&path=/?ed=8880#🏴‍☠️ UN | 188.114.98.0
 vless://74c5af8f-1801-42a2-99ae-f3e5b7f3258a@non.zabuzabfr.ir:8880?path=/&security=&encryption=none&host=non.zabuzabfr.ir&type=httpupgrade#🇮🇷 IR | 185.143.233.235
+vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=/&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#🇮🇷 IR | 185.143.233.122
+vless://80a4cead-eef6-41b7-bfdb-cad1564fbcc8@jll.az99x.info:8880?path=/&security=none&encryption=none&type=ws#🇮🇷 IR | 185.143.234.235
+vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🏴‍☠️ UN | torless.duckdns.org
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://836f3d4d-8345-4ed3-9359-f388a0c23cb0@link2x05417_2.temp.veraspeed.ir:80?encryption=none&type=ws&host=byebye.22.avenflow.ir&path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none#🏴‍☠️ UN | link2x05417_2.temp.veraspeed.ir
 vless://83adcc98-ac23-4e51-9ae0-788a73fd9939@104.17.163.123:8443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net#🇨🇦 CA | 104.17.163.123
