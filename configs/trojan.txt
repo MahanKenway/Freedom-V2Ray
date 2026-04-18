@@ -1,4 +1,4 @@
-trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=random&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev#🇨🇦 CA | 104.21.86.175
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=random&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev#🇨🇦 CA | 2606:4700:3035::ac43:df4a
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-2381
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-8762
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@series-v1.samanehha.co:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-172.67.131.245-7718
@@ -76,7 +76,6 @@ trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.1
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#%F0%9F%87%BA%F0%9F%87%B8US-166.88.197.60-0267
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-8803
 trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-223.111.157.147-5304
-trojan://a9866469-18db-4e57-9423-55ae5f96faab@141.98.24.234:443?fp=chrome&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&security=reality&sid=07&sni=www.google.com#🇳🇱 NL | 141.98.24.234
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5419
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.187.85.198-4102
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1173
@@ -95,7 +94,8 @@ trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecu
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇨🇦 CA | 172.67.180.92
 trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇪🇸 ES | 185.18.250.245
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇺🇸 US | 8.6.112.0
-trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇺🇸 US | 8.6.112.0
+trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇺🇸 US | 8.6.112.0
+trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇺🇸 US | 8.6.112.0
 trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇺🇸 US | 8.6.112.6
 trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4169
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-4725
