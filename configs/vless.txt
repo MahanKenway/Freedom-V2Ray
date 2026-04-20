@@ -46,6 +46,7 @@ vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjo
 vless://3a162fb4-b58a-4698-a892-2ca2d91b7865@link2x08263_6.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#🇮🇷 IR | 185.143.233.122
 vless://3c3a6cdf-1cca-4549-af25-6374dcf379e3@193.233.128.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇦🇹 AT | 193.233.128.247
 vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?mode=auto&path=/-AzV2ry?ed=2056&security=none&encryption=none&host=qbank.ir&type=xhttp#🇺🇸 US | 199.232.79.229
+vless://3dd00a30-46cd-4569-8a47-c07cee3c3e60@blubank.sb24.ir:80?path=/&security=none&encryption=none&host=static.aliyanserver.ir&type=ws#🇮🇷 IR | 185.143.233.235
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🇨🇦 CA | 2606:4700:58::adf5:3bd9
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🇨🇦 CA | 104.17.147.22
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
