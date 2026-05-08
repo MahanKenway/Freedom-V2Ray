@@ -88,6 +88,8 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@140.235.36.50:443?security=tls&sni=Koma-YT.PAG
 trojan://8r%3C%5B9%27l6hAO%238ZQi@140.238.208.240:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A8%F0%9F%87%ADCH-140.238.208.240-0906
 trojan://8r%3C%5B9%27l6hAO%238ZQi@140.83.50.165:443?security=tls&sni=🔒#%F0%9F%87%AF%F0%9F%87%B5JP-140.83.50.165-1801
 trojan://8r%3C%5B9%27l6hAO%238ZQi@141.101.115.253:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%81RELAY-141.101.115.253-1813
+trojan://8r%3C%5B9%27l6hAO%238ZQi@144.31.122.101:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-144.31.122.101-0883
+trojan://8r%3C%5B9%27l6hAO%238ZQi@144.31.122.101:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-144.31.122.101-0885
 trojan://8r%3C%5B9%27l6hAO%238ZQi@144.31.122.162:8443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-144.31.122.162-0881
 trojan://8r%3C%5B9%27l6hAO%238ZQi@146.19.84.236:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%BBLV-146.19.84.236-0882
 trojan://8r%3C%5B9%27l6hAO%238ZQi@146.56.113.221:7778?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.113.221-1846
@@ -302,12 +304,13 @@ trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xy
 trojan://pro@_LlpRWwEh4tRl4cSzc0TZDxM@starlink-sg2.mfa.cat:20000?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.179.101.217-4856
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1918
 trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls#%F0%9F%87%B2%F0%9F%87%A9MD-103.231.73.181-4804
-trojan://telegram-id-directvpn@13.37.76.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.76.238
 trojan://telegram-id-directvpn@15.236.112.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.112.206
-trojan://telegram-id-privatevpns@13.37.76.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.76.238
+trojan://telegram-id-directvpn@3.79.92.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.79.92.53
 trojan://telegram-id-privatevpns@15.236.112.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.112.206
-trojan://telegram-id-v2rayvpnchannel@13.37.76.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.76.238
+trojan://telegram-id-privatevpns@3.79.92.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.79.92.53
 trojan://telegram-id-v2rayvpnchannel@15.236.112.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.112.206
+trojan://telegram-id-v2rayvpnchannel@3.79.92.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.79.92.53
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.109-5180
 trojan://xxoo@146.19.230.241:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-2473
+trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-8866
 trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-8862
