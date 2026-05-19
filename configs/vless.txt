@@ -1,10 +1,8 @@
-vless://00bc439b-0e6c-4450-8744-58dc27fe92ac@varzesh3.com:8080?path=/cdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#🇮🇷 IR | 185.143.235.201
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.116.109:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.77.116.109
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#🇨🇦 CA | 172.64.149.54
 vless://08573a82-e375-40de-85d0-358307d3cb57@varzesh3.com:8080?path=/cdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#🇮🇷 IR | 185.143.232.201
 vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#🇮🇷 IR | 185.143.233.5
-vless://0a47ab98-b50b-4b92-baec-6e16af930dde@snapp.ir:8080?path=/Embestpro1&security=none&encryption=none&host=Cyrus.zomavo.ir&type=ws#🇮🇷 IR | 185.143.233.122
 vless://0b75e1b3-31ae-44fb-ab4b-bc1b98ea1358@arvancloud.ir:2095?encryption=none&host=api.helxj.ir&path=/IR?ed=2560&security=none&type=@vmesskhodam#🇮🇷 IR | 185.143.235.200
+vless://0cf94446-7c69-4e04-93a6-67aef05b121b@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#🇮🇷 IR | 185.143.233.122
 vless://0da640df-a497-4ec2-8705-707c44705f47@fastly1.hamrahflow.ir:443?path=/&security=tls&encryption=none&host=Valsiin.com&type=ws&sni=default.ssl.fastly.net#🇺🇸 US | 140.248.155.104
 vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?path=/api&security=none&encryption=none&host=ryzo.px-ir.ir&type=ws#🇮🇷 IR | 185.143.233.122
 vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=ax.tan3.ir&fp=chrome&type=xhttp&sni=ax.tan3.ir#🇨🇦 CA | 188.114.98.44
@@ -21,11 +19,8 @@ vless://20a328bd-08c1-4e88-aee5-bc542a4ef101@143.204.111.65:443?encryption=none&
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#🇸🇨 SC | 45.130.125.160
 vless://2601740f-12a1-4e61-ba12-4e84915f5ed8@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#🇮🇷 IR | 185.143.234.235
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#🇨🇦 CA | 104.18.16.56
-vless://26b75e41-55a5-4160-b956-166598fa840b@blubank.sb24.ir:443?path=/graphql?ed=2560&security=tls&encryption=none&insecure=0&host=uu1.quickapiiiii.ir&fp=chrome&type=ws&allowInsecure=0&sni=uu1.quickapiiiii.ir#🏴‍☠️ UN | blubank.sb24.ir
-vless://29428e34-4f40-4dc0-a9dc-e82e430d909b@connect.sayeonline.com:2082?encryption=none&host=&path=/&security=none&type=ws#🇮🇷 IR | 185.143.234.235
 vless://2aa074fb-ca59-448c-b864-a5e82b93c640@172.64.149.99:2095?encryption=none&security=none&type=ws&host=zoomG.ir.download.ir.iranKetab.ir.ronD.ir.abadis.ir.Shad.ir.divar.ir.dowNloadly.com.aparat.com.cafeBazar.ir.varzesh3.Com.ninisite.com.abadis.ir.Torob.shad.zooMit.downloAdha.top.&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=1024#🇨🇦 CA | 172.64.149.99
 vless://2aa074fb-ca59-448c-b864-a5e82b93c640@www.speedtest.net:2095?encryption=none&security=none&type=ws&host=zoomG.ir.download.ir.iranKetab.ir.ronD.ir.abadis.ir.Shad.ir.divar.ir.dowNloadly.com.aparat.com.cafeBazar.ir.varzesh3.Com.ninisite.com.abadis.ir.Torob.shad.zooMit.downloAdha.top.&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=1024#🇨🇦 CA | 104.17.148.22
-vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.112.38
 vless://2e635a14-57bb-40d1-bc0d-c811b1fb74be@varzesh3.com:80?path=/&security=none&encryption=none&host=proto.helexm.ir&type=ws#🇮🇷 IR | 185.143.232.201
 vless://2e635a14-57bb-40d1-bc0d-c811b1fb74be@varzesh3.com:80?path=/&security=none&encryption=none&host=proto.helexm.ir&type=ws#🇮🇷 IR | 185.143.235.201
 vless://2e82cda5-e020-4c63-8271-e58a00831447@hk4.miyazono-kaori.com:443?security=reality&encryption=none&pbk=6GIENB8z0Fpm9Yf7IFKqLhOBUFX3Qv8QbRK0XGl4NwE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ikea.com.hk&sid=de392136#undefined HK | 95.40.21.50
@@ -41,7 +36,6 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
 vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=/&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#🇺🇸 US | 8.6.112.0
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
-vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?security=tls&encryption=none&type=ws&host=azadnet05.pages.dev&path=/lZU7WqWIDqC1jRn6?ed=2560&sni=azadnet05.pages.dev&fp=chrome#🇨🇦 CA | 172.66.47.175
 vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@104.18.4.130:8443?path=/&security=tls&encryption=none&insecure=0&host=deold.turboo-server.com.co&type=ws&allowInsecure=0&sni=deold.turboo-server.com.co#🇨🇦 CA | 104.18.4.130
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=9.neshaan.org&fp=chrome&type=ws&sni=9.neshaan.org#🇺🇸 US | 192.200.160.14
 vless://54c47dee-eaee-417c-9b3c-339c5e00eeb7@trex.docos.tech:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.docos.tech&fp=chrome&type=ws&allowInsecure=0&sni=trex.docos.tech#🇮🇷 IR | 185.143.233.235
@@ -65,6 +59,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.101.136.162:443?allowInsecure=1&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2053?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇺🇸 US | 8.6.112.6
 vless://6408f8f3-4d00-4c36-aa0e-b49d09a26a34@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#🇮🇷 IR | 185.143.235.200
 vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?encryption=none&security=none&type=ws&path=/&host=dns-02.dl-toucan.monster#🇮🇷 IR | 185.143.234.235
+vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?path=/&security=none&encryption=none&host=dns-02.dl-toucan.monster&type=ws#🇮🇷 IR | 185.143.233.235
 vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?path=/&security=none&encryption=none&host=dns-02.dl-toucan.monster&type=ws#🇮🇷 IR | 185.143.234.235
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?path=/45.76.183.217=49292&security=tls&encryption=none&host=delta090.qzz.io&fp=chrome&type=ws&sni=delta090.qzz.io#🇨🇦 CA | 188.114.98.0
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#🇱🇹 LT | 2.57.91.92
@@ -83,7 +78,6 @@ vless://7d12caa2-43e0-45d2-8636-08b342615c7b@104.17.72.206:443?path=/&security=t
 vless://7d12caa2-43e0-45d2-8636-08b342615c7b@172.64.149.54:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=clod.pedramhost.shop#🇨🇦 CA | 172.64.149.54
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://80dd98cd-b501-4e3e-98e0-274e01916f94@arvancloud.ir:2095?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#🇮🇷 IR | 185.143.234.200
-vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?path=/vless&security=none&encryption=none&host=asal.kalak.ca&type=ws#🇮🇷 IR | 185.143.233.122
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://83adcc98-ac23-4e51-9ae0-788a73fd9939@104.17.163.123:8443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net#🇨🇦 CA | 104.17.163.123
 vless://8471bba9-3541-ddad-e6ca-4f9151620cb3@tr.tehranionliine.ir:80?path=/&security=&encryption=none&type=ws&sni=185.226.94.188#🇮🇷 IR | 185.143.234.235
