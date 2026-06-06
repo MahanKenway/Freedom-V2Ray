@@ -214,6 +214,7 @@ trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls#%F0%9F%87%AD%F
 trojan://WF42809561@touching-pigeon.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.84.24-4623
 trojan://WpfQAbO2wg@45.9.10.103:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-45.9.10.103-4090
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#%F0%9F%87%AB%F0%9F%87%B7FR-217.69.2.107-0165
+trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#%F0%9F%87%AE%F0%9F%87%B6IQ-130.94.97.11-0177
 trojan://ZY07256934@closing-crow.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.124.227.151-4696
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.255.122-4643
 trojan://a0087535-9c6f-42cd-9220-a7bb8eeae6cc@v02.gutingting.com:30057?security=tls&sni=v1kr02.fuqiangren.com#%F0%9F%8F%81RELAY-172.65.211.209-1209
@@ -293,7 +294,6 @@ trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&inse
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#%F0%9F%87%A9%F0%9F%87%AADE-172.236.220.10-0187
 trojan://telegram-id-directvpn@52.47.107.29:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.107.29
 trojan://telegram-id-directvpn@63.181.210.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.181.210.240
-trojan://telegram-id-privatevpns@52.47.107.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.107.29
 trojan://telegram-id-privatevpns@63.181.210.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.181.210.240
 trojan://telegram-id-v2rayvpnchannel@52.47.107.29:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ UN | 52.47.107.29
 trojan://telegram-id-v2rayvpnchannel@63.181.210.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ UN | 63.181.210.240
