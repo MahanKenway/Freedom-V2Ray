@@ -128,6 +128,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.89.244.77:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-45.89.244.77-1708
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.102.156.144:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%A6%F0%9F%87%B9AT-46.102.156.144-1598
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.226.167.115:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR-46.226.167.115-1613
+trojan://8r%3C%5B9%27l6hAO%238ZQi@46.29.234.91:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%B9LT-46.29.234.91-1714
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.236.176:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AEFI-46.8.236.176-1610
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.237.174:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AEFI-46.8.237.174-1637
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.238.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AEFI-46.8.238.49-1638
@@ -191,7 +192,6 @@ trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.
 trojan://E_hUHrn0+6VeZO=v9=fLgoPDXZWGfcrejg@172.238.19.11:443?security=tls&sni=172.238.19.11#%F0%9F%87%AF%F0%9F%87%B5JP-172.238.19.11-0117
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?security=tls&sni=stutter.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.180-6446
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?security=tls&sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.178.83.161-0737
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310?security=tls&sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.180.171.43-0736
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-0537
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&headerType=none&type=tcp&sni=fra34.tracker-ws.click#🇩🇪 DE | 91.233.8.25
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&sni=fra34.tracker-ws.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.25-0465
@@ -226,11 +226,10 @@ trojan://b504c643-d081-4c90-8f50-9b0bf0b0902d@v02.gutingting.com:20223?security=
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-0976
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-7447
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1121
-trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&headerType=none&fp=chrome&type=tcp#🇺🇸 US | 172.235.63.252
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&headerType=none&type=tcp&sni=172.235.63.252#🇺🇸 US | 172.235.63.252
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252#%F0%9F%87%BA%F0%9F%87%B8US-172.235.63.252-0134
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-1809
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8270
-trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8272
 trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@v02.gutingting.com:30052?security=tls&sni=v2th01.fuqiangren.com#%F0%9F%8F%81RELAY-172.65.211.209-1128
 trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@v02.gutingting.com:30053?security=tls&sni=v2phl01.fuqiangren.com#%F0%9F%8F%81RELAY-172.65.211.209-1129
 trojan://d30ab83dbde4480082048fb315bedebd@15.204.56.75:443?security=tls&sni=15.204.56.75#%F0%9F%87%BA%F0%9F%87%B8US-15.204.56.75-4750
@@ -250,26 +249,21 @@ trojan://gcuCpQfaiVeDBdWG@211.76.176.97:19128?security=tls&sni=yazhou10.dynu.net
 trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.98-0212
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.96-0403
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.96-0732
-trojan://humanity@104.16.174.36:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#🇨🇦 CA | 104.16.174.36
 trojan://humanity@104.19.208.184:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 CA | 104.19.208.184
 trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇨🇦 CA | 104.19.229.21
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 CA | 104.19.229.21
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴‍☠️ UN | 104.19.229.21
 trojan://humanity@104.19.229.21:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#🇨🇦 CA | 104.19.229.21
 trojan://humanity@104.19.229.21:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#🏴‍☠️ UN | 104.19.229.21
-trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=www.calmlunch.com#🇨🇦 CA | 104.20.6.134
-trojan://humanity@141.101.90.101:443?security=tls&type=ws&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&fp=ios&allowInsecure=1#🇩🇪 DE | 141.101.90.101
 trojan://humanity@141.193.213.10:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 US | 141.193.213.10
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-172.64.152.23-0761
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&Host=www.creationlong.org#%F0%9F%8F%81RELAY-172.64.152.23-0758
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&Host=www.gossipglove.com#%F0%9F%8F%81RELAY-172.64.152.23-0757
 trojan://humanity@172.64.155.209:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=random&type=ws&host=www.gossipglove.com&path=/assignment#🇨🇦 CA | 172.64.155.209
 trojan://humanity@172.64.229.75:443?encryption=none&security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#🇨🇦 CA | 172.64.229.75
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🏴‍☠️ UN | 185.18.250.252
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇪🇸 ES | 185.18.250.252
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇪🇸 ES | 185.18.250.252
 trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇪🇸 ES | 185.18.250.252
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http/1.1&fp=chrome&allowInsecure=1#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&sni=www.creationlong.org&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#🇨🇦 CA | 188.114.97.6
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#🇨🇦 CA | 188.114.98.0
 trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨 SC | 45.130.125.76
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.254-0141
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-64.176.65.85-0123
@@ -279,6 +273,8 @@ trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.254.136-7607
 trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-108.61.171.167-8366
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.246.122-7609
+trojan://mitivpn@188.114.97.6:443?security=tls&sni=mitivpn.dAsh.ss.ssadsczdx.globcal.ssl.fastly.net.b5r.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=https://chatgpt.com#🇨🇦 CA | 188.114.97.6
+trojan://mitivpn@188.114.97.6:443?security=tls&sni=ssadszdx.global.ssl.fastly.net.b5r.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=https://chatgpt.com#🇨🇦 CA | 188.114.97.6
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https://chatgpt.com&sni=mitivpn.dAsh.ss.ssadsczdx.globcal.ssl.fastly.net.b5r.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#🇨🇦 CA | 188.114.97.6
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https://chatgpt.com&sni=ssadszdx.global.ssl.fastly.net.b5r.ir&alpn=http/1.1&fp=chrome&allowInsecure=0#🇨🇦 CA | 188.114.97.6
 trojan://pro@_LlpRWwEh4tRl4cSzc0TZDxM@starlink-sg2.mfa.cat:20000?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-52.221.229.34-4672
@@ -287,10 +283,8 @@ trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxre
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-172.238.120.124-0139
 trojan://rXyShM8Jni+5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?security=tls&sni=45.79.8.17#%F0%9F%87%BA%F0%9F%87%B8US-45.79.8.17-0071
 trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?security=tls&sni=vpn5.rnmcnm.com#%F0%9F%87%AA%F0%9F%87%B8ES-103.45.245.208-0747
-trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443?path=/ws-79dffb8106db&security=tls&insecure=0&host=vpn5.rnmcnm.com&type=ws&allowInsecure=0&sni=vpn5.rnmcnm.com#🏴‍☠️ UN | 2.56.204.246
+trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443?path=/ws-79dffb8106db&security=tls&insecure=0&host=vpn5.rnmcnm.com&type=ws&allowInsecure=0&sni=vpn5.rnmcnm.com#🇦🇲 AM | 2.56.204.246
 trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click#%F0%9F%87%A6%F0%9F%87%B7AR-130.94.107.171-0144
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#%F0%9F%87%A9%F0%9F%87%AADE-172.236.220.10-0138
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-146.70.90.197-4604
-trojan://telegram-id-directvpn@51.44.200.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.200.238
-trojan://telegram-id-privatevpns@51.44.200.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.200.238
-trojan://telegram-id-v2rayvpnchannel@51.44.200.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.200.238
+trojan://wtMJLiFlvt@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=dd.aananas.ir.#🇨🇦 CA | 188.114.97.6
