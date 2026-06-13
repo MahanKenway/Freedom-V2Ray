@@ -3,7 +3,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.206-0137
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZTI4NzYzMWRjNGZjOGZj@62.146.231.112:12012#%F0%9F%87%BA%F0%9F%87%B8US-62.146.231.112-0133
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#%F0%9F%87%BA%F0%9F%87%B8US-72.56.37.24-0173
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001269pz2.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-36.230.60.182-0120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-114.25.11.56-0127
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BCTW-36.224.153.221-0119
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGR2b1cwVGRLUnE=@161.97.68.139:443#%F0%9F%87%AB%F0%9F%87%B7FR-161.97.68.139-0249
@@ -17,9 +16,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWF3TEJLZ3ZzSFU2R3N4VlVLNlBZ@195.133.2.2:34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.63-0104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#%F0%9F%87%A8%F0%9F%87%A6CA-23.95.76.59-0675
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#%F0%9F%87%A8%F0%9F%87%A6CA-45.154.204.7-0670
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1NL-108.181.126.122-0190
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1NL-108.181.58.239-0191
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#🇳🇱 NL | 108.181.58.239
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNGd5SGtLd0pHeUc=@161.97.66.81:443#%F0%9F%87%AB%F0%9F%87%B7FR-161.97.66.81-6207
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRGVDSFN1NGx0OHFmbENTNXpET3k4@195.93.253.245:49137#%F0%9F%87%B3%F0%9F%87%B1NL-195.93.253.245-0122
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#%F0%9F%87%BA%F0%9F%87%B8US-108.181.0.177-0085
@@ -35,7 +31,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.233:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.233-0077
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#%F0%9F%87%BA%F0%9F%87%B8US-107.172.250.161-0084
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSOVhjNGRIWEd2M2M=@205.134.180.143:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.143-7748
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.117.161.38:443#🇬🇧 GB | 20.117.161.38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.104.237.70-0093
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#🇬🇧 GB | 51.104.237.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.104.237.70-0091
@@ -49,7 +44,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6ZA-102.133.165.160-0113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#🇹🇷 TR | 62.133.63.169
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#%F0%9F%87%A6%F0%9F%87%BAAU-45.79.238.129-7574
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTExNTg0NS1jYzIzLTQwODItOTA1ZS04NjlmZTIxMmRmZWY=@account-center.zzdy25.com:38320#%F0%9F%87%B9%F0%9F%87%BCTW-1.170.222.96-0194
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6ZA-102.37.156.224-0114
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@185.5.38.111:55988#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-0138
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjakxDZUExTms0S0dwU2RaRVZ4V2pnN25FVGMzRkpfZ0AxODguMTIxLjEyMy4xODk6NDA1MA==#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjakxDZUExTms0S0dwU2RaRVZ4V2pnN25FVGMzRkpfZ0AxODguMTIxLjEyMy4xODk6NDA1MA==
@@ -140,12 +134,9 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-0056
 ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0=@86.106.84.198:13265#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.198-0240
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7529
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-7692
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.70:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4585
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7525
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7528
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7526
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7530
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#%F0%9F%87%AD%F0%9F%87%B0HK-216.250.97.82-0174
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4583
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.46.196:443#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.46.196-4381
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.49.89:443#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.49.89-1507
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.48.212:443#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.48.212-1620
@@ -158,7 +149,7 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@31.172.67.43:443#%F0%9F%87%B7%F0%9F%87
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.213:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.213-7616
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.214:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.214-7615
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.23.63-0134
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#%F0%9F%87%AD%F0%9F%87%B0HK-112.213.102.188-4456
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.70:9018#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0196
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#%F0%9F%87%B9%F0%9F%87%BCTW-185.189.160.105-0165
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0142
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0153
@@ -207,7 +198,6 @@ trojan://0e90d359-1733-4994-a195-4df768a18e99@611hk01.fans8.xyz:443?security=tls
 trojan://0e90d359-1733-4994-a195-4df768a18e99@67sg01.fans8.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-0029
 trojan://0e90d359-1733-4994-a195-4df768a18e99@67tw01.fans8.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-0005
 trojan://0ldyjdhd-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com#%F0%9F%87%AD%F0%9F%87%BAHU-46.29.142.57-0797
-trojan://11559103-9993-4d00-b599-d6bcd8db2197@free-v7-09.elbrusway.online:443?security=tls&sni=free-v7-09.elbrusway.online#%F0%9F%87%A9%F0%9F%87%AADE-64.188.66.196-4454
 trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-3882
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8100
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8102
@@ -359,7 +349,6 @@ trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.12.80-4448
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0130
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd#%F0%9F%87%A9%F0%9F%87%AADE-94.103.173.70-0099
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-6282
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-54.184.22.123-4479
 trojan://WF42809561@outgoing-cockatoo.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.222.125-4457
 trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.59-4460
@@ -399,6 +388,7 @@ trojan://humanity@198.62.62.23:443?type=ws&security=tls&path=/assignment&host=ww
 trojan://humanity@208.103.161.101:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&Host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8US-208.103.161.101-1660
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.254-0116
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-4511
+trojan://lTLVIqIvFqp+es9giS.0o77ztLrCQLaxVh@172.105.9.126:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-172.105.9.126-0059
 trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-108.61.170.104-8204
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.254.136-7443
 trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-108.61.171.167-8202
@@ -431,6 +421,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.198.31:22224?type=ws&securit
 vless://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443?path=/&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#🇺🇸 US | 151.101.109.223
 vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?encryption=none&type=ws&serviceName=---Telegram@V2rayNGcloud------Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud---&security=tls&path=/&host=bazaryabab.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#🇺🇸 US | 151.101.109.223
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#🇨🇦 CA | 172.64.149.54
+vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=/&security=none&encryption=none&host=api.aramonlineshop.ir&type=ws#🇮🇷 IR | 185.143.233.122
 vless://07f78397-7217-4ff0-90b1-7544c723b211@172.67.160.192:8880?path=/?ed=80&security=none&encryption=none&host=alManjadId1.po0iU.ir.&type=httpupgrade#🇨🇦 CA | 172.67.160.192
 vless://089151c6-276a-4292-b8c3-b65ce1193b49@172.66.213.209:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=testvip1.aattaash.com#🇨🇦 CA | 172.66.213.209
 vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?encryption=none&type=ws&security=tls&path=/&host=bazaryabab.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇺🇸 US | 199.232.78.159
@@ -444,7 +435,6 @@ vless://15a54c93-49ca-4e6c-86e5-d337b338cd9d@45.89.60.64:443?encryption=none&typ
 vless://17c45b20-9128-4eaf-a444-15a394f7e77c@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=/@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.n3.misen.sbs.#🇨🇦 CA | 104.17.148.22
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#🇩🇪 DE | 185.158.133.158
 vless://1ebae49b-f302-4301-b67d-d1d67f4e5666@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=/@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.n3.misen.sbs.#🇨🇦 CA | 104.17.147.22
-vless://1f051461-5940-4359-a34b-ef1de69e8152@188.121.124.137:59311?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 188.121.124.137
 vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?encryption=none&security=tls&sni=PrO.nImBaHa.InFo&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=pro.nimbaha.info&path=/#🇨🇦 CA | 172.67.158.125
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 FR | 152.228.162.19
 vless://2b127cd7-6117-46c7-8efc-f69dc003b206@45.130.125.158:443?mode=auto&path=/sSJ124xs/sd&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa94.manhamunamkeyeruz.ir&fp=ios&type=xhttp&allowInsecure=0&sni=mahsa94.manhamunamkeyeruz.ir#🇸🇨 SC | 45.130.125.158
@@ -545,6 +535,7 @@ vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGiv&sec
 vless://Shh-proxy@45.131.5.144:8880?encryption=none&type=ws&host=shhp.akbarjoojeh.shop&path=/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY#🇧🇿 BZ | 45.131.5.144
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&fp=chrome&spx=/&encryption=none#🇵🇱 PL | 83.168.71.216
 vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality&encryption=none&pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=b00e098b#🇨🇦 CA | 172.65.183.98
+vless://a779ddfa-ad83-40fe-a4a3-029b1eafecf0@dl.extra-tm.ir:8880?path=/elctroxi&security=&encryption=none&host=clud.extra-tm.ir&type=ws#🇮🇷 IR | 185.143.233.235
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 CA | 104.16.2.90
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&type=ws&allowInsecure=0&sni=f53d749fda28cb85.hozheen.ir#🇨🇦 CA | 104.18.4.138
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#🇨🇦 CA | 104.20.6.134
@@ -561,7 +552,6 @@ vless://b300edfb-02c0-4a1d-bbb5-1817d9e16927@83.228.235.106:2082?mode=auto&path=
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?security=reality&encryption=none&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=917fd5a45e8840#🇷🇺 RU | 158.160.250.45
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 LV | 91.218.143.194
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
 vless://b8c51058-4378-46d3-b2c9-50b43b5715a0@main.saforia.ru:2086?path=/&security=none&encryption=none&host=main.saforia.ru&type=ws#🇸🇪 SE | 194.87.77.134
 vless://b991b390-dd0f-4061-9150-bee0cb467bce@172.67.230.207:443?encryption=none&security=tls&sni=opu-ao6.pages.dev&alpn=h2,http/1.1&fp=randomized&type=ws&host=opu-ao6.pages.dev&path=/1wgvlggw75ayt15e/ns4yntuumtizljiz?ed=2560#🇨🇦 CA | 172.67.230.207
@@ -924,7 +914,6 @@ vmess://ewogICAgImFkZCI6ICIxMDkuMTIzLjIzNy40MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 vmess://ewogICAgImFkZCI6ICIxMDkuMTIzLjIzNy40MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNhNzczNjAtODA4ZC0xMWVkLWI3MzYtMjA1YzZkNWY1ZDc4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7jwn4esU0ctMTA5LjEyMy4yMzcuNDEtMTg4MyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxMTguMTA3LjQ2LjE3MyIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9wYXRoLzA4MDcxMjM0MjMxMCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e48J+HrFNHLTExOC4xMDcuNDYuMTczLTgxOTgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxMTguMTA3LjQ2LjE3MyIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9wYXRoLzA4MDcxMjM0MjMxMCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e48J+HrFNHLTExOC4xMDcuNDYuMTczLTgyMDAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMjQuMjIyLjE4OS4yMjUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImE4YzlhZDViLTFmNTgtNDIzNC1iNWZlLWE4OTViZWU5YTA0NyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eo8J+Hs0NOLTEyNC4yMjIuMTg5LjIyNS0xNTk5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxMzEuMTg2LjU3LjExMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImUxMzA5MTdjLTFiNTgtNDEzNi1iMmQ5LTc2ZGM5MjBlMGFkZC5hZGQ5N2VlOC0wZjE0LTQ4YTMtYjJjZC05NzljNTY3NDJlNjQubG9zZXlvdXJpcC5jb20iLAogICAgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xMzEuMTg2LjU3LjExMS03MjI5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxMzIuMTQ1LjIzMi4xNzEiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJiZXlvbmRkc3ouY2ZkIiwKICAgICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6nwn4eqREUtMTMyLjE0NS4yMzIuMTcxLTY4MTEiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJiZXlvbmRkc3ouY2ZkIgp9
 vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbm5hLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xMzQuMTk1LjE5OC4xNDctNjM2MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
