@@ -150,7 +150,6 @@ trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure
 trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%AD%F0%9F%87%B0HK-119.236.231.201-0703
 trojan://P6oS8vzFbu@45.130.125.2:443?type=ws&security=tls&path=/db&host=sb.farxmode.ir&sni=sb.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#🇸🇨 SC | 45.130.125.2
 trojan://SoftNetConnect@83.228.250.119:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#🇨🇭 CH | 83.228.250.119
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-7915
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.18-0136
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.68-0134
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-54.184.22.123-6164
@@ -162,8 +161,6 @@ trojan://ZY07256934@closing-crow.rooster465.autos:443?security=tls#%F0%9F%87%B0%
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.255.122-6157
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#%F0%9F%87%BA%F0%9F%87%B8US-38.60.202.163-0135
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-10007
-trojan://a844e75e40134ee742e80ced8509b310@95.40.80.58:2008?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.80.58-0666
-trojan://a844e75e40134ee742e80ced8509b310@95.40.80.58:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.80.58-0673
 trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.48.1:443?security=tls&sni=1g.890699.xyZ&type=ws&path=/lXENb74xF4ylXngZ&Host=1g.890699.xyZ#%F0%9F%8F%81RELAY-104.21.48.1-1185
 trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.64.1:443?security=tls&sni=1g.890699.xyZ&type=ws&path=/lXENb74xF4ylXngZ&Host=1g.890699.xyZ#%F0%9F%8F%81RELAY-104.21.64.1-1177
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-92.119.35.117-0644
