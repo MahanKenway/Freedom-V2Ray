@@ -28,7 +28,6 @@ vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s9.meoshop.ir:2053?mode=auto&path=/
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 DE | 191.40.5.108
 vless://2e35ca4c-00cd-4e0b-bb51-f69d19c9f3df@gr-direct2.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 DE | 191.40.4.93
 vless://2e55e846-7737-4c07-af67-191e2727513c@172.64.88.168:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=weathered-sunset-be54.407-d9d.workers.dev&type=ws#🇨🇦 CA | 172.64.88.168
-vless://31ed0ed1-746a-46aa-bb54-7a3c30b90c3e@45.74.159.146:32845?path=/&security=none&encryption=none&type=ws#🇨🇦 CA | 45.74.159.146
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=Cdn8-pro.postshup.ir.&path=/?ed=2082&security=none#🇨🇦 CA | 104.25.189.214
 vless://36644091-0cec-47fe-9955-97c3f424baf7@all082.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&spx=/&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🇬🇧 GB | 54.37.6.235
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#🇨🇦 CA | 104.17.147.22
@@ -112,6 +111,7 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&securi
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🇸🇪 SE | 192.71.82.2
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🇸🇪 SE | 192.71.82.2
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🇸🇪 SE | 192.71.82.2
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=chrome&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#🇬🇧 GB | 31.77.161.2
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#🇬🇧 GB | 31.77.161.2
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 CA | 104.16.2.90
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#🇨🇦 CA | 104.20.6.134
