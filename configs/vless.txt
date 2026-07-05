@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.216.201:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.216.201
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#🇨🇭 CH | 45.197.134.56
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.5:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=storage.yandex.net&sid=40ce08cf20c67003&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none#🇹🇷 TR | 45.195.137.5
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=storage.yandex.net&sid=40ce08cf20c67003&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none#🇹🇷 TR | 45.195.137.48
@@ -115,7 +116,6 @@ vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&path=/B
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🇸🇪 SE | 192.71.82.2
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=#🇸🇪 SE | 192.71.82.2
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🇸🇪 SE | 192.71.82.2
-vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=chrome&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#🇬🇧 GB | 31.77.161.2
 vless://a90bdbb4-65ff-4cec-85ce-9dc1ea7c2863@qapoi.foot8all.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=545df9caf95f7cd8#🇩🇪 DE | 91.107.177.68
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 CA | 104.16.2.90
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#🇨🇦 CA | 104.20.6.134
@@ -168,7 +168,6 @@ vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none
 vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇨🇦 CA | 2606:4700:20::ac43:490e
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&encryption=none&type=ws&host=jp.laoyoutiao.link&path=/#🇩🇪 DE | 102.177.176.213
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-vless://fc41b7b6-f30e-4f42-b676-54ec1e5dde6e@167.233.235.232:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 DE | 167.233.235.232
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇸🇨 SC | 45.130.125.96
 vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@104.16.72.101:443?path=/ws-vlees&security=tls&encryption=none&insecure=0&host=lIVe-1g3MevO1-6iUGBkrj.NEwNEwComPaNyDOM1.info&fp=chrome&type=ws&allowInsecure=0&sni=lIVe-1g3MevO1-6iUGBkrj.NEwNEwComPaNyDOM1.info#🇨🇦 CA | 104.16.72.101
 vless://insta:mahan_vpn.@185.135.9.146:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇩🇪 DE | 185.135.9.146
