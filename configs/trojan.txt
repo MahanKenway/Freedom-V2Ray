@@ -1,3 +1,4 @@
+trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2711?security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=/aNcHe4w9zawCcjk&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56#🇨🇭 CH | 179.237.74.76
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-4217
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&path=6b777a91&Host=jobscareerfortoday.com#%F0%9F%8F%81RELAY-104.17.147.11-1177
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-10073
@@ -7,7 +8,6 @@ trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?security=tls&sn
 trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-5693
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-9839
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-9841
-trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=/51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#🇨🇦 CA | 172.64.152.23
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-2761
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-hk-8.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8US-216.227.142.171-3286
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-11.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8US-216.227.142.171-3270
@@ -166,7 +166,6 @@ trojan://d30ab83dbde4480082048fb315bedebd@5.180.78.22:443?security=tls#%F0%9F%87
 trojan://d6788cf74e6844c45538204efd24b00f@16.163.138.198:3743?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-16.163.138.198-0623
 trojan://d6788cf74e6844c45538204efd24b00f@16.163.138.198:55973?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-16.163.138.198-0622
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.147.6:443?security=tls&sni=jobsapplyworld.com&type=ws&path=6b777a91&Host=jobsapplyworld.com#%F0%9F%8F%81RELAY-104.17.147.6-1182
-trojan://dfdse334053vuohm@auto.mhjstudio.ir:443?security=tls&sni=alternative.mhjstudio.ir&type=ws&path=/&Host=alternative.mhjstudio.ir#%F0%9F%8F%81RELAY-108.162.196.71-0616
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.128-0149
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.135-0148
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.138-0155
@@ -189,7 +188,6 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.26.189.91:443?security=tls&sni
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.20:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%8F%81RELAY-162.159.36.20-0653
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.5:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%8F%81RELAY-162.159.36.5-0705
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.165.174:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#%F0%9F%87%B8%F0%9F%87%ACSG-168.138.165.174-0668
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.212.80-0666
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@172.66.46.250:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%8F%81RELAY-172.66.46.250-0706
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.175:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%B0%F0%9F%87%B7KR-211.49.57.175-0748
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.178:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#%F0%9F%87%B0%F0%9F%87%B7KR-211.49.57.178-0746
@@ -224,6 +222,7 @@ trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&type=w
 trojan://humanity@104.18.152.229:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%8F%81RELAY-104.18.152.229-0704
 trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇨🇦 CA | 104.18.152.246
 trojan://humanity@104.18.152.97:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.97-0639
+trojan://humanity@104.19.2.175:443?encryption=none&security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#🇨🇦 CA | 104.19.2.175
 trojan://humanity@104.19.208.184:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com#%F0%9F%8F%81RELAY-104.19.208.184-0755
 trojan://humanity@104.19.230.21:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2Fassignment&Host=www.multiplydose.com#%F0%9F%8F%81RELAY-104.19.230.21-2552
 trojan://humanity@104.20.6.134:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%8F%81RELAY-104.20.6.134-0732
@@ -259,7 +258,7 @@ trojan://humanity@45.130.125.75:443?security=tls&sni=www.calmlunch.com&type=ws&p
 trojan://humanity@45.130.125.96:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%8F%81RELAY-45.130.125.96-0649
 trojan://humanity@91.193.58.77:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%8F%81RELAY-91.193.58.77-0654
 trojan://humanity@www.ignitelimit.com:443?security=tls#%F0%9F%8F%81RELAY-104.18.22.63-2626
-trojan://humanity@www.ignitelimit.com:443?security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#🇨🇦 CA | 2606:4700::6812:163f
+trojan://humanity@www.ignitelimit.com:443?security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#🇨🇦 CA | 104.18.22.63
 trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-5851
 trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2,http/1.1&fp=firefox&insecure=0&allowInsecure=0#🇺🇸 US | 151.101.34.144
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-6733
