@@ -91,9 +91,7 @@ vless://@WANCLOUDFA@5.160.128.97:44446?security=reality&encryption=none&pbk=MW5S
 vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🇺🇸 US | 199.232.237.245
 vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#🇨🇦 CA | 104.17.148.22
 vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#🇨🇦 CA | 104.17.148.22
-vless://Join,telegram:X_RAY_VPN1@91.107.150.246:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 DE | 91.107.150.246
 vless://SoonTeam@sexi.carderrr.com:443?path=/telegram@SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#🇲🇾 MY | 208.84.103.60
-vless://Telegram-@Cooonfig@65.109.178.137:3008?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.178.137
 vless://Telegram🇨🇳 @WangCai2@185.18.184.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇳🇱 NL | 185.18.184.2
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇵🇱 PL | 83.168.71.216
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇵🇱 PL | 83.168.71.216
@@ -106,8 +104,8 @@ vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.21.33.129:2053?path=/In_Panel_R
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws#🇨🇦 CA | 188.114.97.6
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?security=reality&encryption=none&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=917fd5a45e8840#🇷🇺 RU | 158.160.250.45
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 LV | 91.218.143.194
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇺🇸 US | 199.232.78.159
-vless://b82d817a-431e-4c4b-93b7-a924256db74e@al1.vipsite2.top:8088?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=alman1.rendai.ir#🇮🇷 IR | 78.157.54.112
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
 vless://bbbf096a-a2c2-4ecd-a78b-172cf83e10fc@104.19.255.51:8880?path=/ZEUS_PANEL_BOT&security=none&encryption=none&host=zeus-panel-ois0u5.cfw-cac.workers.dev&fp=ios&type=ws&sni=zeus-panel-ois0u5.cfw-cac.workers.dev#🇨🇦 CA | 104.19.255.51
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#🇨🇦 CA | 104.19.141.3
@@ -138,9 +136,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22223?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 13.38.212.228
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.38.212.228
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.212.228:22224?encryption=none&security=none&type=tcp&headerType=none#🇫🇷 FR | 13.38.212.228
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.44.137.10
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.44.137.10
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.44.137.10
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22222?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 DE | 52.28.107.75
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.107.75:22222?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 52.28.107.75
 vless://e7af22d8-dee7-2af7-e515-c27800000013@172.64.147.1:2053?path=/sync&security=tls&encryption=none&insecure=0&host=empty-fire-c174.armin-adeli1388.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=empty-fire-c174.armin-adeli1388.workers.dev#🇨🇦 CA | 172.64.147.1
