@@ -96,7 +96,6 @@ vless://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?mode=stream-one&pa
 vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🇺🇸 US | 199.232.237.245
 vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#🇨🇦 CA | 104.17.148.22
 vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#🇨🇦 CA | 104.17.148.22
-vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.211.253
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&type=tcp&security=reality&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=ads.x5.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#🇵🇱 PL | 83.168.71.216
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇵🇱 PL | 83.168.71.216
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇵🇱 PL | 83.168.71.216
@@ -137,9 +136,6 @@ vless://e2236e63-d157-46cc-ad94-12ffe0d02614@sweden1.banovano.space:443/?type=gr
 vless://e258977b-e413-4718-a3af-02d75492c349@8.47.69.6:443?security=tls&encryption=none&insecure=0&host=ww1.aniuge.qzz.io&fp=firefox&type=ws&allowInsecure=0&sni=ww1.aniuge.qzz.io#🇺🇸 US | 8.47.69.6
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
 vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?security=reality&encryption=none&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=808a7e8a2e32c697#🇳🇱 NL | 130.49.185.196
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.15.123:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.15.123
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.15.123:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.15.123
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.15.123:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.15.123
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22222?encryption=none&security=none&type=tcp#🇩🇪 DE | 18.156.92.136
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22223?encryption=none&security=none&type=tcp#🇩🇪 DE | 18.156.92.136
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.156.92.136:22223?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 18.156.92.136
