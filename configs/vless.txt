@@ -116,6 +116,7 @@ vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de10.buycloud.app:443?encryption=none&type=tcp&security=reality&headerType=none&fp=qq&insecure=1&allowInsecure=1&pbk=z_Rn0Vvq1GB39RhN6v7DhdtD-kS0XZa_je0h-no_hWs&sid=59eee550a1014198&flow=xtls-rprx-vision#🇩🇪 DE | 103.109.234.230
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#🇨🇦 CA | 104.19.141.3
+vless://bfc0791f-68cc-4f69-a1c5-a12577fe619c@us.mobileemdad.top:42538?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇺🇸 US | 5.161.16.93
 vless://c0897097-4f59-439c-aab1-ae39004375b2@45.154.96.46:8080?security=reality&encryption=none&pbk=wzwMT116o9V0x4QCcZFFBVGi1S722f1nRKs4FCvPPH8&host=play.google.com&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=96960563e710ad7c#🇫🇷 FR | 45.154.96.46
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#🇨🇦 CA | 108.162.193.162
 vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&sni=vpn3.rnmcnm.com&fp=chrome&type=ws&host=vpn3.rnmcnm.com&path=/ray#🇨🇦 CA | 172.67.136.188
@@ -134,9 +135,6 @@ vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@162.159.253.41:8443?encryption=none
 vless://dea3172d-b0fe-e53b-f5ea-199e3c135c48@x4g-production-4a16.up.railway.app:443?path=/ws/dea3172d-b0fe-e53b-f5ea-199e3c135c48&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-4a16.up.railway.app&fp=ios&type=ws&sni=x4g-production-4a16.up.railway.app#🇺🇸 US | 69.46.46.49
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws#🇨🇦 CA | 104.24.197.20
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.249.140:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.249.140
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.249.140:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.249.140
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.249.140:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.249.140
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇨🇦 CA | 172.67.191.52
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
 vless://e840ce17-8ca1-4e4b-9120-cb829b0b50c4@fastly.videobazi.com:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=Fastspeedmar.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#🇨🇦 CA | 167.82.10.79
