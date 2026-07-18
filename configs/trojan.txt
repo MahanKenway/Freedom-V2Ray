@@ -182,7 +182,6 @@ trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-wer
 trojan://CF68213490@wealthy-gobbler.rooster465.autos:443?security=tls&sni=wealthy-gobbler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.189.201-0122
 trojan://CF68213490@welcome-monitor.rooster465.autos:443?security=tls&sni=welcome-monitor.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.68.237.45-0117
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-9129
-trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?security=tls&sni=stutter.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.180-7671
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-2008
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.201.135-5770
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.114.143-5850
@@ -255,9 +254,10 @@ trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&s
 trojan://cortex-trojan-2026@152.42.191.178:8443?security=tls&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%ACSG-152.42.191.178-5920
 trojan://dfdse334053vuohm@auto.mhjstudio.ir:443?security=tls&sni=alternative.mhjstudio.ir&type=ws&path=/&Host=alternative.mhjstudio.ir#%F0%9F%8F%81RELAY-108.162.196.71-0501
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.128-0232
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.135-0236
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.140-0231
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.142-0237
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.145-0235
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.149-0238
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.151-0229
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.156:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.156-0233
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8884
