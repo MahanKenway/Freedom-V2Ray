@@ -1,0 +1,66 @@
+sources:
+  - id: mahdibland-v2rayaggregator
+    url: "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt"
+    format: "text"
+    parser: "mixed"
+    enabled: true
+    timeout_seconds: 15
+    max_bytes: 5000000
+    license: "unknown"
+    contact: null
+    last_reviewed: "2026-07-19"
+
+  - id: iranian-cypherpunks-sub
+    url: "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/sub"
+    format: "text"
+    parser: "mixed"
+    enabled: true
+    timeout_seconds: 15
+    max_bytes: 5000000
+    license: "unknown"
+    contact: null
+    last_reviewed: "2026-07-19"
+
+  - id: vfarid-v2ray-share
+    url: "https://raw.githubusercontent.com/vfarid/v2ray-share/main/configs.txt"
+    format: "text"
+    parser: "mixed"
+    enabled: true
+    timeout_seconds: 15
+    max_bytes: 5000000
+    license: "unknown"
+    contact: null
+    last_reviewed: "2026-07-19"
+
+  - id: iboxz-free-v2ray-collector
+    url: "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt"
+    format: "text"
+    parser: "mixed"
+    enabled: true
+    timeout_seconds: 15
+    max_bytes: 5000000
+    license: "unknown"
+    contact: null
+    last_reviewed: "2026-07-19"
+
+  - id: lidatong-v2ray-rules
+    url: "https://raw.githubusercontent.com/Lidatong/v2ray_rules/master/all.txt"
+    format: "text"
+    parser: "mixed"
+    enabled: true
+    timeout_seconds: 15
+    max_bytes: 5000000
+    license: "unknown"
+    contact: null
+    last_reviewed: "2026-07-19"
+
+  - id: awesome-vpn
+    url: "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all.txt"
+    format: "text"
+    parser: "mixed"
+    enabled: true
+    timeout_seconds: 15
+    max_bytes: 5000000
+    license: "unknown"
+    contact: null
+    last_reviewed: "2026-07-19"

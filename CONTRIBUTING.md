@@ -1,4 +1,4 @@
-# Contributing to V2Ray Collector Pro / مشارکت در پروژه
+# Contributing to Freedom-V2Ray / مشارکت در پروژه
 
 [English](#english) | [فارسی](#فارسی)
 
@@ -18,12 +18,22 @@ We love your input! We want to make contributing to this project as easy and tra
 ### 🚀 How to Contribute
 
 1. **Fork the Repository**: Create your own copy of the project.
-2. **Clone the Fork**: `git clone https://github.com/YOUR_USERNAME/v2ray-collector-pro.git`
+2. **Clone the Fork**: `git clone https://github.com/YOUR_USERNAME/Freedom-V2Ray.git`
 3. **Create a Branch**: `git checkout -b feature/AmazingFeature`
-4. **Make Changes**: Implement your feature or fix.
-5. **Commit Changes**: `git commit -m 'Add some AmazingFeature'`
-6. **Push to GitHub**: `git push origin feature/AmazingFeature`
-7. **Submit a Pull Request**: Explain your changes and why they are beneficial.
+4. **Install dependencies**: `pip install -r requirements.txt`
+5. **Make Changes**: Implement your feature or fix.
+6. **Run tests**: `pytest`
+7. **Commit Changes**: `git commit -m 'Add some AmazingFeature'`
+8. **Push to GitHub**: `git push origin feature/AmazingFeature`
+9. **Submit a Pull Request**: Explain your changes and why they are beneficial.
+
+### 🧰 Project Structure
+
+- `src/`: main application code
+- `scripts/`: helper wrappers
+- `configs/`: generated outputs
+- `tests/`: automated tests
+- `logs/`: runtime logs
 
 ---
 
@@ -41,12 +51,22 @@ We love your input! We want to make contributing to this project as easy and tra
 ### 🚀 نحوه مشارکت
 
 ۱. **پروژه را Fork کنید**: یک نسخه از پروژه را در حساب خود بسازید.
-۲. **پروژه را کلون کنید**: `git clone https://github.com/YOUR_USERNAME/v2ray-collector-pro.git`
+۲. **پروژه را کلون کنید**: `git clone https://github.com/YOUR_USERNAME/Freedom-V2Ray.git`
 ۳. **یک Branch بسازید**: `git checkout -b feature/AmazingFeature`
-۴. **تغییرات را اعمال کنید**: ویژگی جدید یا اصلاحات خود را پیاده‌سازی کنید.
-۵. **تغییرات را Commit کنید**: `git commit -m 'Add some AmazingFeature'`
-۶. **به گیت‌هاب Push کنید**: `git push origin feature/AmazingFeature`
-۷. **یک Pull Request باز کنید**: تغییرات خود و دلیل مفید بودن آن‌ها را توضیح دهید.
+۴. **وابستگی‌ها را نصب کنید**: `pip install -r requirements.txt`
+۵. **تغییرات را اعمال کنید**: ویژگی جدید یا اصلاحات خود را پیاده‌سازی کنید.
+۶. **تست‌ها را اجرا کنید**: `pytest`
+۷. **تغییرات را Commit کنید**: `git commit -m 'Add some AmazingFeature'`
+۸. **به گیت‌هاب Push کنید**: `git push origin feature/AmazingFeature`
+۹. **یک Pull Request باز کنید**: تغییرات خود و دلیل مفید بودن آن‌ها را توضیح دهید.
+
+### 🧰 ساختار پروژه
+
+- `src/`: کد اصلی برنامه
+- `scripts/`: اسکریپت‌های کمکی
+- `configs/`: خروجی‌های تولید شده
+- `tests/`: تست‌های خودکار
+- `logs/`: لاگ‌های اجرا
 
 ---
-*Created by Manus AI for MahanKenway*
+*Created for MahanKenway*
