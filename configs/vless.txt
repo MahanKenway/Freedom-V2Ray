@@ -123,9 +123,6 @@ vless://dddff7f3-9a3d-463f-9213-0b8243e7f1db@de.sv.temas-bor.ir:22006?security=r
 vless://dfb28501-ecb2-438a-bb3c-7ae77d320c30@storybot.aigcsoft.site:443?path=/36288/nobitex.ir&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni.irandoc.info#🇸🇬 SG | 43.174.247.53
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws#🇨🇦 CA | 2606:4700:20::ac43:42b1
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.114.69:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.114.69
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.114.69:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.114.69
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.114.69:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.114.69
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.124.12
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.124.12
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.124.12
