@@ -117,9 +117,6 @@ vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none
 vless://e2047d88-9aa0-4e47-9218-12c0859913db@mail.netraidly.ru:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=qq&security=reality&pbk=tSSohVG0_iZYMpoSAzt_qAxTkWPo5Hfj7kNsQHbjITI&sid=a99e#🇳🇱 NL | 77.233.214.166
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
 vless://e3693df5-32cb-5839-03c2-46111414331b@x4g-production-fd48.up.railway.app:443?path=/ws/e3693df5-32cb-5839-03c2-46111414331b&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-fd48.up.railway.app&fp=ios&type=ws&sni=x4g-production-fd48.up.railway.app#🇺🇸 US | 69.46.46.50
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.22.60:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.22.60
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.22.60:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.22.60
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.22.60:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.22.60
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.131.242:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.224.131.242
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.131.242:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.224.131.242
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.131.242:22223?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 15.224.131.242
