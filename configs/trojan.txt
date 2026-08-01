@@ -32,7 +32,6 @@ trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?security=tls#%F0
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a12.taipeicitygovernment.org.ua:3462?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.67.30-5912
 trojan://74480619-b6a8-4ab8-94e1-1132fc18b2fa@185.18.250.252:443?security=tls&sni=unnes.ac.id.r3xxe.eu.cc&type=ws&path=/au-mt&Host=unnes.ac.id.r3xxe.eu.cc#%F0%9F%8F%81RELAY-185.18.250.252-3156
 trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?type=xhttp&security=tls&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=firefox#🇺🇸 US | 199.232.206.245
-trojan://7f2lnuboFJ@62.60.148.98:22597?security=reality&sni=www.intel.com&fp=chrome&pbk=OKyWZTPzXNnypsWdRqA5OjRRj8CvNWnh-UDQdBPQNG0&sid=28d10c99eaa4&spx=/&type=tcp&headerType=none#🇫🇷 FR | 62.60.148.98
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-8788
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-8790
 trojan://8078dd51-d4d9-4024-89df-50e358a00a54@103.195.236.24:443?security=tls#%F0%9F%87%BB%F0%9F%87%B3VN-103.195.236.24-4815
@@ -230,3 +229,4 @@ trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=h
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-3199
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.195-6025
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?type=tcp&security=tls&sni=86.106.84.195&allowInsecure=1#🇨🇭 CH | 86.106.84.195
