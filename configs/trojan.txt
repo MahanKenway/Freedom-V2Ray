@@ -173,6 +173,7 @@ trojan://NQ26071394@inviting-rabbit.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://NQ26071394@skilled-polliwog.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.183.191-5903
 trojan://NQ26071394@thorough-foxhound.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.226.48-5893
 trojan://NQ26071394@topical-shark.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.130.2.108-6083
+trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-7790
 trojan://UKGgxZwI4G@179.237.75.217:443?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=firefox&spx=/@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network&type=grpc&sni=yahoo.com#🇨🇭 CH | 179.237.75.217
 trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.186.154-5905
 trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.239.112-5964
