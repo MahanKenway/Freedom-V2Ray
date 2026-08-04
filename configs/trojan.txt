@@ -163,11 +163,9 @@ trojan://MiTiVPN@104.18.6.178:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@Mi
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🏴‍☠️ UN | 188.114.97.6
 trojan://ND91608427@definite-malamute.rooster465.autos:443?security=tls&sni=definite-malamute.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.247.197-0502
 trojan://ND91608427@definite-sturgeon.rooster465.autos:443?security=tls&sni=definite-sturgeon.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.202.238-0521
-trojan://ND91608427@devoted-heron.rooster465.autos:443?allowInsecure=1&sni=devoted-heron.rooster465.autos#🏴‍☠️ UN | devoted-heron.rooster465.autos
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0430
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.140.99-0520
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?security=tls&sni=relaxed-gull.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.248-3172
-trojan://ND91608427@sacred-treefrog.rooster465.autos:443?allowInsecure=1&sni=sacred-treefrog.rooster465.autos#🏴‍☠️ UN | sacred-treefrog.rooster465.autos
 trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.239.182-0519
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.119.20-0427
 trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.164.216-3179
@@ -227,7 +225,6 @@ trojan://PD07395842@pro-crane.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%
 trojan://PD07395842@pumped-sailfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.226.91-6027
 trojan://PD07395842@together-amoeba.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.6.163-5937
 trojan://PD07395842@true-pony.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.14-6129
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls#%F0%9F%87%B8%F0%9F%87%A6SA-149.104.104.58-2349
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-7869
 trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.186.154-5955
 trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.239.112-6009
@@ -244,8 +241,6 @@ trojan://XG59623478@tough-shark.rooster465.autos:443?security=tls#%F0%9F%87%AF%F
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.113.150.82-6082
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store#%F0%9F%8F%81RELAY-104.16.183.101-9084
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-6579
-trojan://b1436565-19cf-4dbd-8391-b1e515f21612@104.21.100.56:2053?encryption=none&security=tls&sni=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev&fp=chrome&type=ws&host=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev&path=/matinf13&allowInsecure=0#🏴‍☠️ UN | 104.21.100.56
-trojan://b1436565-19cf-4dbd-8391-b1e515f21612@162.159.251.228:443?encryption=none&security=tls&sni=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev&fp=chrome&type=ws&host=twilight-firefly-50bb.matin-farzan1387-e6e.workers.dev&path=/matinf13&allowInsecure=0#🏴‍☠️ UN | 162.159.251.228
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.187.85.198-5510
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-2564
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-7992
