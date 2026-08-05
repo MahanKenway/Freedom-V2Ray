@@ -138,7 +138,6 @@ trojan://CF68213490@united-molly.rooster465.autos:443?security=tls#%F0%9F%87%AF%
 trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.128.224.11-6105
 trojan://CF68213490@wealthy-gobbler.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.25.197-6076
 trojan://CF68213490@welcome-monitor.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.183.20-6062
-trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-8512
 trojan://HW85960347@normal-dory.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.34.6-6022
 trojan://HW85960347@outgoing-eagle.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.13.76-6025
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-2199
@@ -191,7 +190,6 @@ trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls#%F0%9F%87%B
 trojan://ND91608427@learning-leopard.rooster465.autos:443?security=tls&sni=learning-leopard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.192.168.51-6239
 trojan://ND91608427@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-buzzard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.194.227-6209
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.140.99-0156
-trojan://ND91608427@next-turkey.rooster465.autos:443#🏴‍☠️ UN | next-turkey.rooster465.autos
 trojan://ND91608427@next-turkey.rooster465.autos:443?security=tls&sni=next-turkey.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-54.93.65.133-0435
 trojan://ND91608427@perfect-slug.rooster465.autos:443?security=tls&sni=perfect-slug.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.1.131-6203
 trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.27.225-6182
@@ -329,7 +327,6 @@ trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.1
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-6154
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.254.136-8215
 trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-108.61.171.167-8974
-trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.246.122-8217
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#🏴‍☠️ UN | 104.16.72.70
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🏴‍☠️ UN | 188.114.97.6
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-3241
