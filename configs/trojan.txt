@@ -71,7 +71,6 @@ trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnhj.131.pp.ua:443?security=tls#
 trojan://BxceQaOe@16.162.3.11:27161?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.3.11-3300
 trojan://BxceQaOe@16.162.92.128:9408?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-16.162.92.128-3302
 trojan://BxceQaOe@18.166.226.204:39024?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-18.166.226.204-3305
-trojan://BxceQaOe@95.40.53.193:41421?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.53.193-3304
 trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-34.223.2.163-6264
 trojan://CF68213490@adapting-giraffe.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.84.244-6240
 trojan://CF68213490@alert-redfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.239.7-6237
