@@ -20,8 +20,6 @@ vless://4038f946-bd95-5505-a111-196c05d6d92f@92.42.96.240:443?path=/&security=tl
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=/#🇨🇦 CA | 104.18.1.125
 vless://41784775-8846-4579-9d9d-9ad6ea802e2e@37.48.89.17:49001?security=reality&encryption=none&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de-7.techprovide.icu&sid=1a6b1f9d0e#🇳🇱 NL | 37.48.89.17
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&encryption=none&headerType=none&type=tcp#undefined HK | 182.16.61.3
-vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:37414?encryption=none&host=www.samsung.com&path=/&security=none&type=ws#🇹🇷 TR | 185.226.92.175
-vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:49736?authority=&encryption=none&fp=chrome&pbk=72YYFwmWjUG4MF8Jyon9yBGT31lboO__K-x9FjCO70M&security=reality&serviceName=&sid=2942cebdac&sni=www.cloudflare.com&spx=/193473383ca55cb&type=grpc#🇹🇷 TR | 185.226.92.175
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#🇨🇦 CA | 172.64.146.43
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.165:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#🇨🇦 CA | 172.64.147.165
 vless://486ebf01-0b45-4c38-9ef6-198aa0f9d2c3@104.16.107.139:8880?encryption=none&security=none&type=ws&host=quiet-feather-19f3.410-a69.workers.dev&path=/pyip=proxyip.sg.cmliussss.net#🇨🇦 CA | 104.16.107.139
@@ -95,7 +93,6 @@ vless://b1abaebf-41e9-0617-fa54-901793b4188e@69.46.46.10:443?path=/ws/b1abaebf-4
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/hdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 CA | 188.114.97.6
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws#🇨🇦 CA | 188.114.97.6
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
-vless://b543c35e-ec44-4979-849b-84099ca8a3d8@tuns.aminicity.ir:9032?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇮🇷 IR | 185.235.197.51
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 FR | 149.202.58.99
 vless://b79948e1-a34a-480d-8eb7-260f809e1b6a@104.17.108.1:443?encryption=none&type=xhttp&security=tls&path=/api/v2/feed&host=aa.farxmode.ir&mode=packet-up&extra={"headers":{"User-Agent":"Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36"},"xPaddingBytes":"100-1000"}&sni=aa.farxmode.ir&alpn=h2,http/1.1&fp=random#🇨🇦 CA | 104.17.108.1
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇺🇸 US | 199.232.78.159
@@ -116,7 +113,6 @@ vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@millionaire.levikogjgfdd.ir:2053?pa
 vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=/&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=random&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#🇷🇴 RO | 87.58.205.88
 vless://d588193b-44b4-40f5-bc42-6e8add8f49dc@5.75.202.32:7190?security=reality&encryption=none&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=7398e0c72f7d5c0e#🇩🇪 DE | 5.75.202.32
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 US | 169.40.42.232
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@br1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 US | 169.40.42.95
 vless://d7ec3e31-a9c4-4bdf-a2d8-7f75a8381035@cf.levikogjgfdd.ir:8880?path=/&security=&encryption=none&host=weathered-lake-e883.35-bc4.workers.dev&type=ws#🇨🇦 CA | 188.114.97.6
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=ios&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#🇨🇦 CA | 104.18.1.1
 vless://dbdf1950-b40e-4533-88bb-05ebca375781@172.66.146.2:2087?path=/&security=tls&encryption=none&insecure=0&host=dig.jhju.ir&fp=chrome&type=ws&allowInsecure=0&sni=dig.jhju.ir#🇨🇦 CA | 172.66.146.2
