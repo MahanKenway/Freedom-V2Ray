@@ -5,6 +5,7 @@ trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8964
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8966
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-2622
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444/?type=tcp&security=tls&sni=ggboy.ggboyz.online#🇺🇸 US | 45.143.128.79
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=blackshadow.dpdns.org&type=ws&path=%2F195.123.218.174-443&Host=blackshadow.dpdns.org#%F0%9F%8F%81RELAY-104.21.88.77-2506
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=support.zoom.us.blackshadow.dpdns.org&type=ws&path=%2F195.123.218.174-443&Host=support.zoom.us.blackshadow.dpdns.org#%F0%9F%8F%81RELAY-172.67.174.10-2458
 trojan://32b2m2w7hsdd93z7@31.76.11.46.cdn-one.org:443?security=tls&sni=31.76.11.46.cdn-one.org&type=grpc&serviceName=/50779/NQmry9z8yR#%F0%9F%87%A9%F0%9F%87%AADE-31.76.11.46-0517
