@@ -1,4 +1,5 @@
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-4109
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&alpn=h3, h2, http/1.1&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#🇷🇺 RU | 144.31.50.75
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-9198
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@series-v1.samanehha.co:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#%F0%9F%8F%81RELAY-104.21.12.87-8154
 trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-5585
@@ -60,6 +61,14 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.222.160.199-4105
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.67.106-4324
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-203.69.207.175-4049
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-4184
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-4111
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-4044
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-4035
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-4322
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-4157
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3902
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-4293
 trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.77.213.197-5468
 trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnhj.131.pp.ua:443?security=tls#%F0%9F%87%AB%F0%9F%87%AEFI-135.181.41.169-6303
 trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-34.223.2.163-6261
@@ -96,7 +105,6 @@ trojan://IQ68037294@still-mastodon.rooster465.autos:443?security=tls#%F0%9F%87%A
 trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.164-6148
 trojan://JT80563429@musical-shrew.rooster465.autos:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-13.38.66.171-6301
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-6313
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.187-6314
 trojan://MiTiVPN@104.16.71.213:443?security=tls#%F0%9F%8F%81RELAY-104.16.71.213-3347
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
 trojan://MiTiVPN@104.18.6.178:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl&security=tls&alpn=http/1.1&insecure=1&host=op-mitivpn--MiTiVPN---MiTiVPN-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=g-o-MiTiVPN---MiTiVPNj.Maqror.ir#🇨🇦 CA | 104.18.6.178
@@ -153,7 +161,6 @@ trojan://ND91608427@devoted-tapir.rooster465.autos:443?security=tls&sni=devoted-
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0194
 trojan://ND91608427@distinct-llama.rooster465.autos:443?security=tls&sni=distinct-llama.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.56.44-0235
 trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-91.199.84.120-0274
-trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 KR | 43.201.46.108
 trojan://ND91608427@exotic-chow.rooster465.autos:443?security=tls&sni=exotic-chow.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.46.108-0237
 trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.137.197-0186
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0181
@@ -281,7 +288,6 @@ trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com#%F0%9F%8F
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 172.67.149.60
 trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.149.60-2500
 trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.221.242-2449
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 188.114.97.7
 trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#🇨🇦 CA | 188.114.97.7
 trojan://humanity@198.62.62.23:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8US-198.62.62.23-2461
 trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.7-2478
