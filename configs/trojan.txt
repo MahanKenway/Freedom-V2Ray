@@ -87,7 +87,6 @@ trojan://AE62539071@together-dingo.rooster465.autos:443?security=tls#%F0%9F%87%A
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tolerant-mosquito.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.89-0218
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-54.170.38.205-0200
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.219-0233
-trojan://BxceQaOe@18.162.120.218:11035?allowInsecure=1&sni=t.me/ripaojiedian#undefined HK | 18.162.120.218
 trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-52.12.138.8-4629
 trojan://CF68213490@bright-cicada.rooster465.autos:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-18.198.41.154-4630
 trojan://CF68213490@darling-mongrel.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-54.72.58.12-4541
@@ -354,6 +353,7 @@ trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=w
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 172.67.149.60
 trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.149.60-0735
 trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.221.242-0760
+trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇪🇸 ES | 185.18.250.245
 trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-188.114.97.7-0733
 trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#🇨🇦 CA | 188.114.97.7
 trojan://humanity@198.41.223.96:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-198.41.223.96-0747
