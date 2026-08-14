@@ -188,6 +188,7 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?sec
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-3511
 trojan://bpb-trojan@104.21.26.36:443?security=tls&sni=vless.herogoing.top#%F0%9F%8F%81RELAY-104.21.26.36-2215
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8941
+trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-8943
 trojan://dc0ebcb2-c103-466a-bd30-be492c477379@185.246.131.155:443?path=/BanV2ray---------BanV2ray----BanV2ray-----BanV2ray&security=none&host=play-fe.googleapis.com&type=ws#🇧🇬 BG | 185.246.131.155
 trojan://e0ab846b-8eb2-4042-96dd-7c695e467fbf@hkkk498.cloudflare.182682.xyz:443?security=tls&sni=oe4up9z5j9yntita.tkgogocsgo.top#%F0%9F%8F%81RELAY-104.16.250.22-2551
 trojan://e0ab846b-8eb2-4042-96dd-7c695e467fbf@jjyeye.cloudflare.182682.xyz:443?security=tls&sni=jpefoaweho04.jptimecsgo.xyz#%F0%9F%8F%81RELAY-104.21.224.5-2554
