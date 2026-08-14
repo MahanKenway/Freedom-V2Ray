@@ -96,7 +96,7 @@ trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://AE62539071@together-dingo.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.162-2571
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tolerant-mosquito.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.89-0480
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-54.170.38.205-2568
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?type=tcp#🏴‍☠️ UN | up-dinosaur.rooster465.autos
+trojan://AE62539071@up-dinosaur.rooster465.autos:443?type=tcp#🇩🇪 DE | 3.120.138.119
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.219-2584
 trojan://BxceQaOe@18.162.120.218:11035?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-18.162.120.218-0449
 trojan://BxceQaOe@43.199.31.69:4099?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-43.199.31.69-3377
@@ -175,7 +175,6 @@ trojan://ND91608427@54.65.167.167:443?security=tls&sni=tough-robin.rooster465.au
 trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.13.78-0112
 trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.27.225-0113
 trojan://ND91608427@91.199.84.120:443?security=tls&sni=dynamic-grubworm.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-91.199.84.120-0173
-trojan://ND91608427@ace-starling.rooster465.autos:443#undefined HK | 185.244.208.13
 trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.13-0170
 trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.15.214-0117
 trojan://ND91608427@better-molly.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.232.184-0134
@@ -299,6 +298,7 @@ trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-8263
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-2924
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🇬🇧 GB | 217.217.222.230
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🇺🇸 US | 157.254.38.210
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-3410
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0395
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-3546
