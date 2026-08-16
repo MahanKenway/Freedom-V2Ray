@@ -29,7 +29,6 @@ trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni
 trojan://6f48efb9-3817-4652-832f-fd04d93ebbc1@v5.tgfaka.com:48443?security=tls&sni=d76bb35696.laowanxiang.com#%F0%9F%8F%81RELAY-172.65.211.209-4152
 trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.72.126-2498
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a12.taipeicitygovernment.org.ua:3462?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-4635
-trojan://7E62D6D5-1880-EAA4-96E9-FFD6E81B9446@oss-shanghai.micron-qwer.com:20041?security=tls&sni=mpvideo.qpic.cn#%F0%9F%87%A8%F0%9F%87%B3CN-122.226.163.82-1668
 trojan://7E62D6D5-1880-EAA4-96E9-FFD6E81B9446@oss-shanghai.micron-qwer.com:20046?security=tls&sni=mpvideo.qpic.cn#%F0%9F%87%A8%F0%9F%87%B3CN-122.226.163.82-1669
 trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?type=xhttp&security=tls&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=firefox#🇺🇸 US | 199.232.206.245
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.110.77-4645
