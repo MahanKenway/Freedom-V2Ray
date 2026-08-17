@@ -166,6 +166,7 @@ trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&in
 trojan://MiTiVPN@188.114.97.6:443?security=tls#%F0%9F%8F%81RELAY-188.114.97.6-2285
 trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.232.184-0205
 trojan://ND91608427@18.178.132.111:443?security=tls&sni=devoted-heron.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.178.132.111-0182
+trojan://ND91608427@18.178.132.111:443?security=tls&sni=devoted-heron.rooster465.autos&path=/#🇯🇵 JP | 18.178.132.111
 trojan://ND91608427@18.181.164.216:443?security=tls&sni=upright-impala.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.164.216-0196
 trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.194.227-0258
 trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0297
@@ -260,6 +261,7 @@ trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni
 trojan://e35026da-e985-49ca-b43b-276062a535a6@notdirect.howhealthyistoomajreally.homes:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#%F0%9F%87%BA%F0%9F%87%B8US-103.224.182.211-7087
 trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-7947
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-7299
+trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.133.188#🇸🇬 SG | 172.236.133.188
 trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.117-0947
 trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.121-1301
 trojan://humanity@104.16.174.12:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.12-1373
