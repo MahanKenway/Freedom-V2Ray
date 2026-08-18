@@ -156,7 +156,6 @@ trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls#%F0%9F%8
 trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.220.182-5152
 trojan://IQ68037294@apt-midge.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.181.193.161-2338
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.192-5206
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.187-5205
 trojan://MiTiVPN@104.16.71.213:443?security=tls#%F0%9F%8F%81RELAY-104.16.71.213-2318
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
 trojan://MiTiVPN@151.101.56.0:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=s4z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.fastly.com#🇺🇸 US | 151.101.56.0
@@ -234,6 +233,7 @@ trojan://PQ05174892@52.79.248.57:443?security=tls&sni=awake-redbird.rooster465.a
 trojan://PQ05174892@54.169.228.116:443?security=tls&sni=amusing-grub.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.228.116-2274
 trojan://PQ05174892@54.180.231.164:443?security=tls&sni=regular-raptor.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.231.164-2281
 trojan://PQ05174892@54.238.100.160:443?security=tls&sni=witty-duckling.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.100.160-2282
+trojan://PQ05174892@63.179.149.234:443?fp=chrome&sni=usable-dogfish.rooster465.autos#🇩🇪 DE | 63.179.149.234
 trojan://PQ05174892@amusing-grub.rooster465.autos:443?security=tls&sni=amusing-grub.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.169.228.116-2270
 trojan://PQ05174892@awake-redbird.rooster465.autos:443?security=tls&sni=awake-redbird.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-52.79.248.57-2268
 trojan://PQ05174892@fleet-pony.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.174.21-2265
@@ -264,6 +264,7 @@ trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-7077
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.99.96-1800
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🇬🇧 GB | 217.217.222.230
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🇺🇸 US | 157.254.38.210
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2297
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-2433
 trojan://c024672d-0509-322e-8792-1b54cb82e1ac@162.159.194.69:443?security=tls&sni=blog4.2220aa.xyz#%F0%9F%8F%81RELAY-162.159.194.69-0056
