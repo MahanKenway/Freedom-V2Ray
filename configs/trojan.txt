@@ -69,6 +69,7 @@ trojan://AE62539071@13.193.221.67:443?security=tls&insecure=0&headerType=none&fp
 trojan://AE62539071@15.237.214.103:443?sni=tough-hermit.rooster465.autos&path=/#🇫🇷 FR | 15.237.214.103
 trojan://AE62539071@18.179.200.238:443?sni=safe-frog.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP | 18.179.200.238
 trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.182.132-0104
+trojan://AE62539071@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&path=/#🇩🇪 DE | 3.120.138.119
 trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.223.176-0112
 trojan://AE62539071@52.68.175.30:443?security=tls&sni=on-roughy.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.68.175.30-0122
 trojan://AE62539071@54.64.255.224:443?security=tls&sni=maximum-elk.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.64.255.224-0157
@@ -91,6 +92,7 @@ trojan://AE62539071@main-impala.rooster465.autos:443?security=tls#%F0%9F%87%AF%F
 trojan://AE62539071@polished-imp.rooster465.autos:443?security=tls&sni=polished-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.230.84-0167
 trojan://AE62539071@premium-weevil.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.247.38-0137
 trojan://AE62539071@relative-locust.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.132-0229
+trojan://AE62539071@right-seahorse.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.140.98-0111
 trojan://AE62539071@sacred-hound.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.108.20-0207
 trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&sni=sharing-duck.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-54.244.169.225-0054
 trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.69-0243
@@ -119,11 +121,9 @@ trojan://FH72359861@darling-mongrel.rooster465.autos:443?security=tls&sni=darlin
 trojan://FH72359861@emerging-porpoise.rooster465.autos:443?security=tls&sni=emerging-porpoise.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.248.168.53-0162
 trojan://FH72359861@endless-kiwi.rooster465.autos:443?security=tls&sni=endless-kiwi.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.177.142.108-0143
 trojan://FH72359861@engaged-lionfish.rooster465.autos:443?security=tls&sni=engaged-lionfish.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.23.141-0109
-trojan://FH72359861@epic-iguana.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇩🇪 DE | 3.64.117.92
 trojan://FH72359861@flying-swift.rooster465.autos:443?security=tls&sni=flying-swift.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.17.79-0160
 trojan://FH72359861@good-hound.rooster465.autos:443?security=tls&sni=good-hound.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.53.46-0196
 trojan://FH72359861@great-wasp.rooster465.autos:443?security=tls&sni=great-wasp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.215.144-0171
-trojan://FH72359861@great-wasp.rooster465.autos:443?security=tls&sni=great-wasp.rooster465.autos#🇯🇵 JP | 52.195.215.144
 trojan://FH72359861@helping-shark.rooster465.autos:443?security=tls&sni=helping-shark.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.164.199-0115
 trojan://FH72359861@internal-mongoose.rooster465.autos:443?security=tls&sni=internal-mongoose.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.168.45.85-0110
 trojan://FH72359861@kind-grizzly.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.103.245-0203
@@ -232,6 +232,7 @@ trojan://PQ05174892@52.220.98.46:443?security=tls&sni=pleased-albacore.rooster46
 trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.247.230-0141
 trojan://PQ05174892@infinite-anteater.rooster465.autos:443?security=tls&sni=infinite-anteater.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.251.133.9-0227
 trojan://PQ05174892@intense-monarch.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.33.67-1353
+trojan://PQ05174892@merry-falcon.rooster465.autos:443?allowInsecure=0#🇯🇵 JP | 54.249.166.162
 trojan://PQ05174892@merry-falcon.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.166.162-1351
 trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-lemming.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.113.98.210-0174
 trojan://PQ05174892@pleased-albacore.rooster465.autos:443?security=tls&sni=pleased-albacore.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-52.220.98.46-1354
