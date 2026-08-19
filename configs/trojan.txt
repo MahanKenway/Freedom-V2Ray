@@ -31,6 +31,7 @@ trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?security=tls#%F0
 trojan://758a36c5-d422-4e0d-9bee-a89ce9f9b078@172.238.22.232:48774?security=tls&sni=vpn-node.internal#%F0%9F%87%AF%F0%9F%87%B5JP-172.238.22.232-4832
 trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?type=xhttp&security=tls&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=firefox#🇺🇸 US | 199.232.206.245
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&sni=t11.qifei.app#🇯🇵 JP | 160.16.110.77
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=t11.qifei.app#🇯🇵 JP | 160.16.110.77
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&sni=t11.qifei.app#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.110.77-1934
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-7606
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-7608
@@ -71,7 +72,6 @@ trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster
 trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.223.176-0196
 trojan://AE62539071@52.68.175.30:443?security=tls&sni=on-roughy.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.68.175.30-0207
 trojan://AE62539071@54.64.255.224:443?security=tls&sni=maximum-elk.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.64.255.224-0164
-trojan://AE62539071@54.74.210.220:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=funny-hen.rooster465.autos#🇮🇪 IE | 54.74.210.220
 trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.95.128.248-0195
 trojan://AE62539071@awaited-lark.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.21.187-0172
 trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.135.94-0211
