@@ -124,7 +124,6 @@ trojan://fg20mtCFHy@londhtc.southbyte.xyz:5448?allowInsecure=1&sni=londhtc.south
 trojan://fg20mtCFHy@londhtc.southbyte.xyz:5448?security=tls&sni=londhtc.southbyte.xyz#%F0%9F%87%AC%F0%9F%87%A7GB-68.183.44.99-1129
 trojan://humanity@104.16.174.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.101-1099
 trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.117-1062
-trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.16.174.121
 trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.121-0720
 trojan://humanity@104.16.174.12:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.12-1102
 trojan://humanity@104.16.174.148:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.148-1109
@@ -196,6 +195,7 @@ trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&type=w
 trojan://humanity@172.67.74.2:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.74.2-0715
 trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-188.114.97.7-1050
 trojan://humanity@198.41.223.96:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-198.41.223.96-0719
+trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com#%F0%9F%87%AE%F0%9F%87%B7IR-2.144.21.112-0971
 trojan://humanity@216.24.57.1:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.1-1158
 trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.7-0717
 trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.7-1163
