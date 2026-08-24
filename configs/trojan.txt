@@ -6,7 +6,6 @@ trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=1
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-7529
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-1278
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=blackshadow.dpdns.org#%F0%9F%8F%81RELAY-172.67.174.10-0993
-trojan://412557adf94c42c8be61b3457ce622d7@star.starnick2027.ir:56996?path=/?ed=1024&security=none&host=api.steampowered.com&type=ws#🇹🇷 TR | 212.87.198.121
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2010
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.239.194.103-4512
 trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443?security=tls&sni=zi.you.usdtvfk.top#%F0%9F%8F%81RELAY-104.21.17.218-1711
@@ -204,8 +203,8 @@ trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&pat
 trojan://humanity@86.38.214.205:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-86.38.214.205-0961
 trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.73.213-0943
 trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.1-1142
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.18.8.83
-trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#🇨🇦 CA | 2606:4700::6812:953
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.18.9.83
+trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#🇨🇦 CA | 104.18.8.83
 trojan://humanity@www.ignitelimit.com:443?security=tls#%F0%9F%8F%81RELAY-104.18.23.63-0965
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.26.14.137-0713
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.74.2-1014
