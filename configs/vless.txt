@@ -71,7 +71,7 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?mode=gun&securit
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2096?path=/&security=none&encryption=none&host=derman.neobo-tooth.ru&type=ws#🇩🇪 DE | 185.140.12.160
 vless://767fcb3f-6ab3-49c1-8023-d09230d04647@go.lumen.com:2052?security=none&type=ws&headerType=&path=/&host=fin.v2shop.xyz#🇨🇦 CA | 104.17.72.206
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.98:2087?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇨🇦 CA | 104.19.214.98
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.210:2083?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&pbk=GYGRmooJbciRJqgRyAhyuY4taALwvAGNN721zIKA4g0&fp=firefox&type=grpc&serviceName=a8a08a507c&sni=www.cloudflare.com&sid=d2f6787eda1b6fa0#🇷🇺 RU | 201.24.54.210
+vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#🇹🇷 TR | 185.123.100.56
 vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=/&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#🇮🇷 IR | 185.143.234.122
 vless://7d12caa2-43e0-45d2-8636-08b342615c7b@104.17.72.206:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=clod.pedramhost.shop#🇨🇦 CA | 104.17.72.206
 vless://7d12caa2-43e0-45d2-8636-08b342615c7b@172.64.149.54:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=clod.pedramhost.shop#🇨🇦 CA | 172.64.149.54
@@ -147,7 +147,6 @@ vless://e1b81abf-2c98-487a-9b4d-e678f718f4b9@104.17.3.81:8443?type=ws&security=t
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
 vless://e3b324a3-af32-4cdc-bf35-ecc79aeddad7@104.16.11.133:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=ws#🇨🇦 CA | 104.16.11.133
 vless://e3fcc645-cec2-9b16-3946-06174d59b7fa@69.46.46.104:443?path=/ws/e3fcc645-cec2-9b16-3946-06174d59b7fa&security=tls&alpn=http/1.1&encryption=none&host=polar-falcon-aaa4-production.up.railway.app&fp=ios&type=ws&sni=polar-falcon-aaa4-production.up.railway.app#🇺🇸 US | 69.46.46.104
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.42.235.201
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.42.235.201
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.42.235.201
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=none&encryption=none&type=ws#🇺🇿 UZ | 157.22.133.130
@@ -167,6 +166,7 @@ vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&encryption=none&type=ws&host=jp.laoyoutiao.link&path=/#🇩🇪 DE | 102.177.176.213
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
 vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?security=reality&encryption=none&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=7af95330630a7327#🇫🇷 FR | 51.77.217.70
+vless://fae272a6-a184-4c91-83ed-771abdcff404@mn2.levikogjgfdd.ir:2053?security=reality&encryption=none&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=7af95330630a7327#🇫🇷 FR | 51.77.217.70
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇸🇨 SC | 45.130.125.96
 vless://fcf3f42a-1b88-e1b1-968f-c5ad00000000@delicate-cell-a4e1.ir-comx1.workers.dev:80?path=/sync&security=&encryption=none&host=delicate-cell-a4e1.ir-comx1.workers.dev&type=ws#🇨🇦 CA | 104.21.38.57
 vless://fe37d9b8-1ed6-4ec2-8cde-092a642eb4d3@167.82.76.31:443?encryption=none&type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,#🇺🇸 US | 167.82.76.31
