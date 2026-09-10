@@ -125,6 +125,7 @@ vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.69.42:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.69.42
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.170.215:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.170.215
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.170.215:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.170.215
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.170.215:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.170.215
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
 vless://e8227d30-9e54-4c7f-935f-b1874817d5b3@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=netgerb.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.159
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇨🇦 CA | 172.67.65.158
