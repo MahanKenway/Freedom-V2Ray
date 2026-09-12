@@ -12,6 +12,7 @@ trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@35.72.81.216:443?security=tls#%F0%
 trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443?security=tls&sni=zi.you.usdtvfk.top#%F0%9F%8F%81RELAY-172.67.178.88-2054
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemk.ciscocdn1.live:443?security=tls&sni=c2mk.ciscocdn1.live&type=ws&path=/rDCYQta83d0oPABKBhcIX&Host=c2mk.ciscocdn1.live#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.210-7278
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemt.ciscocdn1.live:443?security=tls&sni=c2mt.ciscocdn1.live&type=ws&path=/rDCYQta83d0oPABKBhcIX&Host=c2mt.ciscocdn1.live#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.210-7276
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls#%F0%9F%87%B2%F0%9F%87%B3MN-103.168.56.77-2652
 trojan://50414e45-4c5f-5a45-5553-565221666bd1@172.67.238.241:443?security=tls&sni=mczrh5e3u5ps.shoameny.workers.dev#%F0%9F%8F%81RELAY-172.67.238.241-1291
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-1324
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3180
@@ -69,6 +70,7 @@ trojan://AE62539071@enough-basilisk.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://AE62539071@firm-krill.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.232.101-5136
 trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.19-5201
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.39.225.215-5199
+trojan://AE62539071@magical-kodiak.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.238-5277
 trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.250.236-5306
 trojan://AE62539071@teaching-gnu.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.204.13-5149
 trojan://AE62539071@viable-serval.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.229.112.60-5263
@@ -203,7 +205,6 @@ trojan://humanity@104.16.174.12:443?security=tls&sni=www.ignitelimit.com&type=ws
 trojan://humanity@104.16.174.46:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.46-0623
 trojan://humanity@104.16.174.6:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.6-0639
 trojan://humanity@104.17.111.1:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.17.111.1-0628
-trojan://humanity@104.18.12.149:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=/assignment#🇨🇦 CA | 104.18.12.149
 trojan://humanity@104.18.152.144:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.144-0625
 trojan://humanity@104.18.152.159:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.159-0637
 trojan://humanity@104.18.152.161:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.161-0635
@@ -213,13 +214,11 @@ trojan://humanity@104.18.22.63:443?security=tls&sni=www.ignitelimit.com&type=ws&
 trojan://humanity@104.19.229.21:443?security=tls#%F0%9F%8F%81RELAY-104.19.229.21-2322
 trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.20.6.134-0622
 trojan://humanity@104.26.14.137:443?security=tls#%F0%9F%8F%81RELAY-104.26.14.137-2363
-trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇺🇸 US | 130.250.137.171
 trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.149.60-0630
 trojan://humanity@172.67.188.109:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.188.109-1295
 trojan://humanity@172.67.74.2:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.74.2-0624
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-185.18.250.252-0620
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-188.114.96.3-0638
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 188.114.97.7
 trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-188.114.97.7-1289
 trojan://humanity@188.114.97.7:443?sni=www.ignitelimit.com&security=tls&path=/assignment&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws#🇨🇦 CA | 188.114.97.7
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇦🇹 AT | 212.183.88.136
@@ -231,7 +230,8 @@ trojan://humanity@91.245.225.79:2053?security=tls&sni=www.calmlunch.com&type=ws&
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.21.8.107-0636
 trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.1-0621
 trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=/assignment#%F0%9F%8F%81RELAY-104.18.22.63-0627
-trojan://humanity@www.speedtest.net:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦 CA | 104.17.147.22
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.17.147.22
+trojan://humanity@www.speedtest.net:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦 CA | 104.17.148.22
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5768
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-5311
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.254.136-7338
