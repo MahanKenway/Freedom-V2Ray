@@ -3,7 +3,6 @@ vless://035c8a3d-1cec-43e2-369d-f98593af1d9a@chatgpt.com:8880?encryption=none&ty
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=/vless/&security=none&encryption=none&type=ws#🇮🇹 IT | 57.131.32.191
 vless://089151c6-276a-4292-b8c3-b65ce1193b49@172.66.213.209:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=testvip1.aattaash.com#🇨🇦 CA | 172.66.213.209
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?fp=chrome&host=/?bia_telegram@marambashi_marambashi_marambashi_marambashi&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&security=reality&sid=cd21e552537c7c0b&sni=www.samsung.com&type=tcp#🇫🇮 FI | 185.79.138.71
-vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect3.nyxserver.ir:8444?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇹🇷 TR | 202.133.90.93
 vless://116370d2-1c2e-463a-9d33-d06079797e4f@45.74.158.180:443?security=reality&encryption=none&pbk=MgyA2FY0p2q_VOwoL9T1Z3rzpKEcGjfN61QliGcyHA8&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=ca41ef1263c02279#🇹🇷 TR | 45.74.158.180
 vless://153fa912-47ce-4e93-9180-65d5cfe71a95@yandexcdn1.ookcdn.ru:443?encryption=none&type=xhttp&mode=auto&extra={"mode":"stream-up","xmux":{"cMaxReuseTimes":"64-128","maxConcurrency":"8-16","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"400-600","hMaxReusableSecs":"1800-3600"},"noSSEHeader":false,"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scMaxEachPostBytes":"500000-1000000","scMinPostsIntervalMs":"10-50","scStreamUpServerSecs":"30-90"}&security=reality&sni=yandexcdn1.ookcdn.ru&fp=ios&pbk=4ltYIatUJFFjrW8ZBDGLJaun0BnYIgxn-jmpmTEDGyc#🇸🇪 SE | 147.45.76.134
 vless://1563ad16-9ac7-4214-8eb7-303f745efb07@themeforest.net:8880?path=/pyip&security=&encryption=none&host=silent-cake-fb8d.69-a76.workers.dev&type=ws#🇨🇦 CA | 104.18.43.76
@@ -18,7 +17,6 @@ vless://238e492b-bc20-4380-92b6-135d39112ca4@200.165.235.78:443?security=reality
 vless://238e492b-bc20-4380-92b6-135d39112ca4@200.165.235.78:443?security=reality&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec#🇷🇺 RU | 200.165.235.78
 vless://238e492b-bc20-4380-92b6-135d39112ca4@200.165.235.78:443?security=reality&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=qq&spx=/&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec#🇷🇺 RU | 200.165.235.78
 vless://282f68bd-d803-4136-9ff1-b8604587c42c@go.lumen.com:2095?path=download&security=&encryption=none&host=eco-de.v2shop.xyz&type=ws#🇨🇦 CA | 104.17.71.206
-vless://297640b5-7eed-49c5-b790-637a3a7cab3f@us.samanehha.io:800?mode=stream-one&path=/?ed=2048&security=none&encryption=none&host=us.samanehha.io&type=xhttp#🇺🇸 US | 217.216.82.85
 vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@cz.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#🇺🇸 US | 207.207.210.107
 vless://2bfe6e7e-1128-47f6-9746-e3021907208d@dedirr.shoppiz.ir:1257?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none#🇩🇪 DE | 178.105.141.104
 vless://2bfe6e7e-1128-47f6-9746-e3021907208d@dedirr.shoppiz.ir:41000?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none#🇩🇪 DE | 178.105.141.104
@@ -91,11 +89,11 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&
 vless://a33300d9-7444-4426-9689-2de937991627@Tr1.nitroserver.cloud:8080?type=tcp&security=none#🇮🇷 IR | 62.60.222.206
 vless://a3558ef4-b843-4b05-8456-495815234c95@199.232.78.159:80?path=/&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#🇺🇸 US | 199.232.78.159
 vless://a48bab45-16d8-496b-b73a-53d5fb9f25cd@5.75.193.204:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#🇩🇪 DE | 5.75.193.204
+vless://a48bab45-16d8-496b-b73a-53d5fb9f25cd@5.75.195.136:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#🇩🇪 DE | 5.75.195.136
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443?mode=gun&security=reality&encryption=none&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=api.noneok.com&sid=1ea59febb8d4fc8e#🇩🇪 DE | 88.216.220.87
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 CA | 104.16.2.90
 vless://abf0bb0b-3e16-475f-8b91-7a1c14dd8b1b@5.75.193.204:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#🇩🇪 DE | 5.75.193.204
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#🇨🇦 CA | 104.20.6.134
-vless://awlix_ir@85.9.194.75:443?encryption=mlkem768x25519plus.native.0rtt.axhmyvi6WAeIVHyKYLuHz7cMMow5FBwwSjs9-TIWxRY&security=none&type=tcp&headerType=none#🇺🇸 US | 85.9.194.75
 vless://b28936a7-c11a-4147-8806-b66efd1658a8@45.144.137.129:41923?security=reality&encryption=none&pbk=7YfjX8TsT3HL0ZzvovjEDOLCM142j3bFcorv-Gs-m2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#undefined HK | 45.144.137.129
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws#🇨🇦 CA | 188.114.97.6
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
@@ -130,7 +128,10 @@ vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encrypti
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws#🇨🇦 CA | 2606:4700:20::6818:c514
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.172.122:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.172.122
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.172.122:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.172.122
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.172.122:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.172.122
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.224:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.237.145.224
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.224:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.237.145.224
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.224:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.237.145.224
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇨🇦 CA | 172.67.65.158
@@ -152,6 +153,7 @@ vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none
 vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇨🇦 CA | 104.26.14.21
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&encryption=none&type=ws&host=jp.laoyoutiao.link&path=/#🇩🇪 DE | 102.177.176.213
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
+vless://fc000d38-cd55-4e19-89eb-8d95fb1802a8@5.75.195.136:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#🇩🇪 DE | 5.75.195.136
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇸🇨 SC | 45.130.125.96
 vless://fcf3f42a-1b88-e1b1-968f-c5ad00000000@delicate-cell-a4e1.ir-comx1.workers.dev:80?path=/sync&security=&encryption=none&host=delicate-cell-a4e1.ir-comx1.workers.dev&type=ws#🇨🇦 CA | 188.114.96.0
 vless://fe37d9b8-1ed6-4ec2-8cde-092a642eb4d3@167.82.76.31:443?encryption=none&type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,#🇺🇸 US | 167.82.76.31
