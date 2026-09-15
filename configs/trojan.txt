@@ -50,14 +50,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.222.160.199-3083
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.216.76.139-3302
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-203.69.207.175-3027
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3162
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3089
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3022
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3013
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3300
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3135
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-2880
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.125.55.109-3271
 trojan://AZWY=WAZk5TeVYmMUudr2xmeb00I3ymeMQ@23.227.193.173:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-23.227.193.173-5198
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US-100.42.228.109-0451
 trojan://CF68213490@accurate-frog.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.237.143-5159
@@ -71,14 +63,13 @@ trojan://CF68213490@welcome-monitor.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://FH72359861@fond-chipmunk.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-52.12.119.84-5181
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-1349
 trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.172.207-5151
-trojan://MiTi323424sdf2wqeq34VPN@167.82.76.7:443?path=@mehrosabsdforan&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.76.7
-trojan://MiTi323424sdf2wqeq3sdf4VPN@167.82.76.7:443?path=@mehrosabsdforan&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.76.7
+trojan://MITIVPN@199.232.78.160:443?path=@mehrosabora &security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
+trojan://MITIVPN@199.232.78.160:443?path=mehrosaboram&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44s.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
+trojan://MITIVPN@openai.com:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-S-a&security=tls&alpn=h2,http/1.1&insecure=0&host=my-usjca-ohl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=0&sni=UsAba-bUbks.App-CloUd.IR#🇨🇦 CA | 104.18.33.45
 trojan://MiTiVPN@104.16.71.213:443?security=tls#%F0%9F%8F%81RELAY-104.16.71.213-2325
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
-trojan://MiTiVPN@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.76.7
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🇨🇦 CA | 188.114.97.6
 trojan://MiTiVPN@188.114.97.6:443?security=tls#%F0%9F%8F%81RELAY-188.114.97.6-2303
-trojan://MiTiVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.101
 trojan://MiTiVPN@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
 trojan://ND91608427@18.179.31.199:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.179.31.199-5163
 trojan://NQ26071394@capable-baboon.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.81.227-5156
@@ -120,11 +111,10 @@ trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8
 trojan://humanity@104.21.33.59:443?security=tls&sni=www.pleadcourt.org#%F0%9F%8F%81RELAY-104.21.33.59-1274
 trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.26.14.137-0632
 trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.26.15.137-1278
-trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US | 130.250.137.171
 trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-141.101.90.101-0628
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 172.67.149.60
 trojan://humanity@172.67.149.60:443?security=tls#%F0%9F%8F%81RELAY-172.67.149.60-2315
 trojan://humanity@172.67.149.60:443?security=tls#%F0%9F%8F%81RELAY-172.67.149.60-4985
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 DE | 185.220.100.168
 trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 188.114.97.7
 trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-188.114.97.7-1276
@@ -136,9 +126,7 @@ trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&type=ws&p
 trojan://humanity@45.130.125.112:443?security=tls#%F0%9F%8F%81RELAY-45.130.125.112-2301
 trojan://humanity@45.130.125.158:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-45.130.125.158-0630
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.188.109-0637
-trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 US | 216.24.57.1
 trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=/assignment#%F0%9F%8F%81RELAY-104.18.22.63-0634
-trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.17.147.22
 trojan://i99Cef@209.248.32.116:28101?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.248.32.116-5202
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5615
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-5200
