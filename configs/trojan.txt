@@ -9,6 +9,7 @@ trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=g
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-1693
 trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-5209
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.239.194.103-4902
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@35.72.81.216:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-35.72.81.216-5367
 trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443?security=tls&sni=zi.you.usdtvfk.top#%F0%9F%8F%81RELAY-172.67.178.88-2126
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemk.ciscocdn1.live:443?security=tls&sni=c2mk.ciscocdn1.live&type=ws&path=/rDCYQta83d0oPABKBhcIX&Host=c2mk.ciscocdn1.live#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.210-7314
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemt.ciscocdn1.live:443?security=tls&sni=c2mt.ciscocdn1.live&type=ws&path=/rDCYQta83d0oPABKBhcIX&Host=c2mt.ciscocdn1.live#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.210-7312
