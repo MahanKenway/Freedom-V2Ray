@@ -144,10 +144,10 @@ trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls#%F0%9F%87%B3%F0%9
 trojan://MITIVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.7
 trojan://MITIVPN@167.82.76.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.76.7
 trojan://MiTIVPN@151.101.56.56:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.56
-trojan://MiTIVPN@151.101.56.7:443?alpn=http/1.1&fp=chrome&security=tls&sni=ssl.fastly.com&insecure=0&type=ws&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&allowInsecure=0#🇺🇸 US | 151.101.56.7
-trojan://MiTIVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.7
+trojan://MiTIVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.7
+trojan://MiTIVPN@167.82.76.7:443?security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 167.82.76.7
+trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.101
 trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.101
-trojan://MiTIVPN@199.232.78.160:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
 trojan://MiTIVPN@199.232.78.160:443?security=tls&sni=ssl.fastly.com&fp=firefox&alpn=http/1.1&type=ws&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&path=/#🇺🇸 US | 199.232.78.160
 trojan://MiTiVPN@104.16.71.213:443?security=tls#%F0%9F%8F%81RELAY-104.16.71.213-2370
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
@@ -260,7 +260,6 @@ trojan://humanity@104.18.152.161:443?security=tls&sni=www.ignitelimit.com#%F0%9F
 trojan://humanity@104.18.152.179:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.179-1312
 trojan://humanity@104.18.152.187:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.187-0587
 trojan://humanity@104.18.152.208:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.208-1319
-trojan://humanity@104.18.152.219:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.18.152.219
 trojan://humanity@104.18.152.233:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.233-0593
 trojan://humanity@104.18.152.73:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.73-0597
 trojan://humanity@104.18.152.97:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.97-0596
@@ -269,13 +268,14 @@ trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com&type=ws&
 trojan://humanity@104.26.14.137:443?security=tls#%F0%9F%8F%81RELAY-104.26.14.137-2386
 trojan://humanity@172.67.149.60:443?security=tls#%F0%9F%8F%81RELAY-172.67.149.60-2363
 trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.149.60-1317
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 188.114.97.7
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 188.114.98.0
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#🇳🇱 NL | 188.42.145.180
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL | 188.42.145.180
 trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.7-0589
 trojan://humanity@45.130.125.112:443?security=tls#%F0%9F%8F%81RELAY-45.130.125.112-2346
 trojan://humanity@45.130.125.158:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-45.130.125.158-1314
 trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.1-0592
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.18.8.83
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.18.9.83
 trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.23.63-0591
 trojan://i99Cef@209.248.32.116:28101?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.248.32.116-5383
@@ -285,9 +285,7 @@ trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.x
 trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-108.61.171.167-8145
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.246.122-7388
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#🇨🇦 CA | 104.16.72.70
-trojan://mitivpn@167.82.76.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.76.7
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
-trojan://mitivpn@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-2432
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.109-5388
 trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.216-2941
