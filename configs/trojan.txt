@@ -126,7 +126,6 @@ trojan://MiTiVPN@104.16.71.213:443?security=tls#%F0%9F%8F%81RELAY-104.16.71.213-
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
 trojan://MiTiVPN@151.101.56.255:443?security=tls&alpn=http/1.1&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.255
 trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---nl--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.7
-trojan://MiTiVPN@151.101.56.7:443?type=ws&security=tls&fp=chrome&sni=ssl.fastly.com&host=mitivpn---nl--s---mitivpn-1.global.ssl.fastly.net&alpn=http/1.1#🇺🇸 US | 151.101.56.7
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🇨🇦 CA | 188.114.97.6
 trojan://MiTiVPN@188.114.97.6:443?security=tls#%F0%9F%8F%81RELAY-188.114.97.6-5006
 trojan://ND91608427@18.179.31.199:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.179.31.199-5286
@@ -171,7 +170,6 @@ trojan://NQ26071394@elegant-marten.rooster465.autos:443?security=tls#%F0%9F%87%B
 trojan://NQ26071394@flexible-gannet.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.151.130.78-5259
 trojan://NQ26071394@grateful-crawdad.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.9.75-5255
 trojan://NQ26071394@innocent-mullet.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.179.157.88-5254
-trojan://NQ26071394@kind-unicorn.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.14.47.56-5229
 trojan://NQ26071394@legible-ram.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-18.176.52.171-5249
 trojan://NQ26071394@one-dove.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.226.131-5256
 trojan://NQ26071394@real-ewe.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.171.197-5248
@@ -210,7 +208,6 @@ trojan://e35026da-e985-49ca-b43b-276062a535a6@notdirect.howhealthyistoomajreally
 trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-8098
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@83.229.121.78:8443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-83.229.121.78-5297
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-7450
-trojan://fvXi1ZyhJ9TMbgZSdc3g9g@xhop-production.up.railway.app:443?path=/xray-trojan&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=xhop-production.up.railway.app#🇺🇸 US | 69.46.46.45
 trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.117-1354
 trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.121-0634
 trojan://humanity@104.16.174.14:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.14-1360
@@ -237,8 +234,8 @@ trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.calmlunch.com#%F0%9F%8F%81RELAY-188.114.98.0-1361
 trojan://humanity@45.130.125.112:443?security=tls#%F0%9F%8F%81RELAY-45.130.125.112-5004
 trojan://humanity@45.80.111.7:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-45.80.111.7-0629
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US | 8.47.69.0
 trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.73.213-1356
-trojan://humanity@render.com:443?path=/assignment#🇺🇸 US | 216.24.57.1
 trojan://i99Cef@209.248.32.116:28101?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.248.32.116-5344
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5807
 trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz#%F0%9F%87%A9%F0%9F%87%AADE-95.179.254.136-0320
