@@ -94,7 +94,6 @@ vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&secur
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 CA | 104.16.2.90
 vless://ac9a573b-67ff-4953-9e13-4cf43576f8f0@lithuana.hype-serv.xyz:443?security=none&encryption=none&headerType=none&type=tcp#🇱🇹 LT | 84.32.248.118
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#🇨🇦 CA | 104.20.6.134
-vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#🇩🇰 DK | 87.58.159.20
 vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.243:443?path=/&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#🇸🇦 SA | 91.209.253.243
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rusbid.de&fp=firefox&security=reality&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&sid=#🇳🇱 NL | 31.77.13.19
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws#🇨🇦 CA | 188.114.97.6
@@ -135,7 +134,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.253.118:22222?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.253.118:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.253.118
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.253.118:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.253.118
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
-vless://e9938bd6-4ee5-4ec1-a3b4-1b212406a8f0@178.104.219.134:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 DE | 178.104.219.134
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇨🇦 CA | 172.67.65.158
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🇮🇳 IN | 5.253.42.164
 vless://eb423e4e-d09c-4e28-b074-e30f090cfcc6@199.232.237.79:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=turboo-server-fastly.com&fp=chrome&type=ws&allowInsecure=0&sni=turboo-server-fastly.com#🇺🇸 US | 199.232.237.79
