@@ -106,6 +106,7 @@ trojan://CF68213490@sacred-shepherd.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://CF68213490@shining-piranha.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-44.250.170.23-5339
 trojan://CF68213490@sincere-crappie.rooster465.autos:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-34.210.65.204-5356
 trojan://CF68213490@smashing-fawn.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-13.159.22.50-5358
+trojan://CF68213490@smiling-fowl.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.158.178-5310
 trojan://CF68213490@smooth-hornet.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.206.17-5375
 trojan://CF68213490@star-cheetah.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.254.233.232-5374
 trojan://CF68213490@star-moray.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.1.241-5312
