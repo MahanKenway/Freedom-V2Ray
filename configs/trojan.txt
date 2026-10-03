@@ -134,6 +134,7 @@ trojan://IQ68037294@eager-louse.rooster465.autos:443?security=tls#%F0%9F%87%B3%F
 trojan://IQ68037294@square-anchovy.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.109.155-4971
 trojan://JA96378052@54.178.60.95:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-54.178.60.95-4904
 trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-78.142.194.96-4863
+trojan://MITIVpN@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
 trojan://MiTiVPN@104.16.71.213:443?security=tls#%F0%9F%8F%81RELAY-104.16.71.213-4667
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
 trojan://MiTiVPN@151.101.56.9:443?path=/&security=tls&alpn=http/1.1&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.9
@@ -248,7 +249,6 @@ trojan://h3ilje76tkhrajug@172.67.182.229:2083?path=/&security=tls&alpn=h2,http/1
 trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmlunch.com#%F0%9F%8F%81RELAY-104.19.229.21-1999
 trojan://humanity@104.21.57.25:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA | 104.21.57.25
 trojan://humanity@104.26.14.137:443?security=tls#%F0%9F%8F%81RELAY-104.26.14.137-4683
-trojan://humanity@104.26.14.137:443?security=tls#🇨🇦 CA | 104.26.14.137
 trojan://humanity@165.215.250.14:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-165.215.250.14-0455
 trojan://humanity@172.67.149.60:443?security=tls#%F0%9F%8F%81RELAY-172.67.149.60-4657
 trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8ES-185.114.72.31-0452
@@ -257,6 +257,7 @@ trojan://humanity@185.225.68.232:443?security=tls&sni=www.calmlunch.com&type=ws&
 trojan://humanity@185.255.179.166:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AADE-185.255.179.166-0447
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-188.114.96.3-0487
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 188.114.97.6
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#🇳🇱 NL | 188.42.145.180
 trojan://humanity@212.227.144.37:8443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8ES-212.227.144.37-0449
@@ -274,8 +275,8 @@ trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xy
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.246.122-7043
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#🇨🇦 CA | 104.16.72.70
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
-trojan://mitivpn@199.232.78.101:443?path=/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/NLSus---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.101
-trojan://mitivpn@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
+trojan://mitivpn@199.232.78.160:443?path=/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/D-e1i@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
+trojan://mitivpn@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
 trojan://mitivpn@199.232.78.188:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.188
 trojan://mitivpn@199.232.78.188:443?security=tls&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&insecure=0&fp=chrome&type=ws&sni=ssl.fastly.com&alpn=http/1.1&allowInsecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net#🇺🇸 US | 199.232.78.188
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0446
