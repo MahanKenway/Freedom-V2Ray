@@ -71,9 +71,7 @@ trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-6821
 trojan://Trojan%4082164024@gb.tronsg.com:443?security=tls&sni=gb.tronsg.com#%F0%9F%87%AC%F0%9F%87%A7GB-18.168.148.212-0128
 trojan://UX82473651@18.143.92.167:443?security=tls&sni=glowing-marmoset.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.92.167-2226
-trojan://UX82473651@202.78.163.237:443?allowInsecure=1&sni=cheerful-swan.rooster465.autos&type=tcp#🇵🇱 PL | 202.78.163.237
 trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.237.143-0170
-trojan://UX82473651@ace-liger.rooster465.autos:443?allowInsecure=1&sni=ace-liger.rooster465.autos#🇸🇬 SG | 13.212.35.242
 trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.167.216-0782
 trojan://UX82473651@amazing-peacock.rooster465.autos:443?security=tls&sni=amazing-peacock.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.217.113-0497
 trojan://UX82473651@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-176.34.5.100-0194
@@ -83,7 +81,6 @@ trojan://UX82473651@central-jawfish.rooster465.autos:443?security=tls&sni=centra
 trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.36.167-0157
 trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.247.130-0161
 trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.203.191-0163
-trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#🇰🇷 KR | 52.78.203.191
 trojan://UX82473651@desired-boxer.rooster465.autos:443?security=tls&sni=desired-boxer.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-54.254.59.149-0515
 trojan://UX82473651@dynamic-imp.rooster465.autos:443?security=tls&sni=dynamic-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.245.255-0176
 trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.69.162-0502
@@ -99,7 +96,6 @@ trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls&sni=intense-s
 trojan://UX82473651@internal-krill.rooster465.autos:443?security=tls&sni=internal-krill.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.192.233.33-0780
 trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-56.10.9.77-0204
 trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.39.225.215-0187
-trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#🇰🇷 KR | 3.39.225.215
 trojan://UX82473651@liked-eft.rooster465.autos:443?security=tls&sni=liked-eft.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.197.117-0501
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0197
 trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.207.188-0203
@@ -121,6 +117,7 @@ trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promo
 trojan://UX82473651@real-cardinal.rooster465.autos:443?security=tls&sni=real-cardinal.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-52.221.218.179-0201
 trojan://UX82473651@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.10.94-0792
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.77.118-0237
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#🇮🇪 IE | 34.242.77.118
 trojan://UX82473651@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.69-0215
 trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-54.213.238.59-0225
 trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&sni=warm-krill.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.225.188-0785
@@ -155,7 +152,6 @@ trojan://ea4y8s7qdshp547j@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_Rbaa
 trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-7825
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-7177
 trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?security=tls&type=grpc&serviceName=grpcbeast#%F0%9F%87%BA%F0%9F%87%B8US-31.76.7.45-0457
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?fp=chrome#🇩🇪 DE | 91.92.43.240
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?security=tls#%F0%9F%87%A7%F0%9F%87%ACBG-93.152.223.201-2241
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-194.87.6.192-2242
 trojan://humanity@104.18.35.86:443?security=tls&sni=www.volumerOot.coM.&type=ws&path=/assignment&Host=www.volumerOot.coM.#%F0%9F%8F%81RELAY-104.18.35.86-0508
@@ -168,8 +164,7 @@ trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&
 trojan://humanity@185.220.100.168:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AADE-185.220.100.168-0469
 trojan://humanity@185.255.179.166:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AADE-185.255.179.166-0463
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#🇳🇱 NL | 188.42.145.180
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=android&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 NL | 188.42.145.180
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL | 188.42.145.180
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 NL | 188.42.145.180
 trojan://humanity@203.202.232.211:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇹🇷 TR | 203.202.232.211
 trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0473
 trojan://humanity@212.227.144.37:8443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8ES-212.227.144.37-0464
@@ -179,6 +174,7 @@ trojan://humanity@45.87.41.18:443?security=tls&sni=www.calmlunch.com&type=ws&pat
 trojan://humanity@78.47.146.151:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment&Host=www.pleadcourt.org#%F0%9F%87%A9%F0%9F%87%AADE-78.47.146.151-0509
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US | 8.47.69.0
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-104.18.8.83-0466
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.17.147.22
 trojan://i99Cef@209.248.32.116:28101?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-209.248.32.116-0518
 trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-6830
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5534
@@ -189,7 +185,6 @@ trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=h
 trojan://mitivpn@167.82.76.27:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/des---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 167.82.76.27
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
 trojan://mitivpn@199.232.78.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.101
-trojan://mitivpn@199.232.78.160:443?path=/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/D-e1i@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0460
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-2311
 trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?security=tls&sni=grape-test-italy.dynuddns.net#%F0%9F%87%B7%F0%9F%87%B4RO-77.74.123.106-0506
