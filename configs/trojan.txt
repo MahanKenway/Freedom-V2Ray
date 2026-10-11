@@ -70,7 +70,6 @@ trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&in
 trojan://MiTiVPN@188.114.97.6:443?security=tls#%F0%9F%8F%81RELAY-188.114.97.6-5356
 trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=ca14e14437#🇩🇪 DE | 185.204.169.164
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-7309
-trojan://Trojan%4082164024@gb.tronsg.com:443?security=tls&sni=gb.tronsg.com#%F0%9F%87%AC%F0%9F%87%A7GB-18.168.148.212-0212
 trojan://UX82473651@13.125.69.162:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.69.162-0513
 trojan://UX82473651@18.143.92.167:443?security=tls&sni=glowing-marmoset.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.92.167-0198
 trojan://UX82473651@3.34.131.153:443?security=tls&sni=pretty-rat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.131.153-0514
@@ -184,6 +183,7 @@ trojan://ea4y8s7qdshp547j@195.15.202.111:4455?security=reality&sni=play-apps-fea
 trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#%F0%9F%87%BA%F0%9F%87%B8US-135.148.148.4-8313
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-7665
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?security=tls#%F0%9F%87%A7%F0%9F%87%ACBG-93.152.223.201-0219
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?security=tls&sni=pol2.fytpn.com#%F0%9F%87%B5%F0%9F%87%B1PL-222.167.245.248-0521
 trojan://humanity@104.18.35.86:443?security=tls&sni=www.volumerOot.coM.&type=ws&path=/assignment&Host=www.volumerOot.coM.#%F0%9F%8F%81RELAY-104.18.35.86-0519
 trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-104.19.229.21-0470
 trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-104.19.229.21-0860
