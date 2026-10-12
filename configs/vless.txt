@@ -129,9 +129,6 @@ vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.168.192:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.168.192
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.168.192:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.168.192
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.168.192:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.168.192
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.177.168:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.181.177.168
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.177.168:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.181.177.168
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.177.168:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.181.177.168
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.0.181:2082?path=/fp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws&sni=hhlfy.twiladaphne.ndjp.net#🇨🇦 CA | 104.18.0.181
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇨🇦 CA | 188.114.97.6
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=/cart/docs/www/proxyip=108.160.132.132?ed#🇨🇦 CA | 188.114.97.6
