@@ -182,13 +182,12 @@ trojan://humanity@185.255.179.166:443?security=tls&sni=www.calmlunch.com&type=ws
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104"]},"type":"fragment"}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#🇨🇦 CA | 188.114.97.6
+trojan://humanity@188.226.181.61:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 NL | 188.226.181.61
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#🇳🇱 NL | 188.42.145.180
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=firefox&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#🇳🇱 NL | 188.42.145.180
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL | 188.42.145.180
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL | 188.42.145.180
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 NL | 188.42.145.180
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇷 CR | 190.93.245.148
 trojan://humanity@193.23.202.65:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-193.23.202.65-0507
-trojan://humanity@212.227.144.37:8443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8ES-212.227.144.37-0463
 trojan://humanity@219.76.13.177:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.177-0502
 trojan://humanity@31.57.190.34:443?security=tls#%F0%9F%87%A6%F0%9F%87%AAAE-31.57.190.34-0508
 trojan://humanity@45.130.125.112:443?security=tls#%F0%9F%8F%81RELAY-45.130.125.112-4795
@@ -196,7 +195,6 @@ trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&
 trojan://humanity@45.38.3.25:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-45.38.3.25-0504
 trojan://humanity@45.87.41.18:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%B3%F0%9F%87%B1NL-45.87.41.18-0464
 trojan://humanity@46.62.204.134:443?security=tls#%F0%9F%87%AB%F0%9F%87%AEFI-46.62.204.134-0506
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 US | 8.47.69.0
 trojan://humanity@83.217.222.170:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-83.217.222.170-0511
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-104.18.9.83-0465
 trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.17.148.22
@@ -207,11 +205,7 @@ trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xy
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%87%A9%F0%9F%87%AADE-95.179.246.122-7044
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#🇨🇦 CA | 104.16.72.70
 trojan://mitivpn@146.75.57.238:443?path=/---@V2ray_AM---@V2ray_AM/---@V2ray_AM---@V2ray_AM&security=tls&alpn=http/1.1&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&sni=google.com#🇺🇸 US | 146.75.57.238
-trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/ bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=play.google.com#🇺🇸 US | 167.82.64.46
-trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/ mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=play.google.com#🇺🇸 US | 167.82.64.46
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
-trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/ bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#🇺🇸 US | 199.232.78.160
-trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/ mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#🇺🇸 US | 199.232.78.160
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0461
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-2214
 trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.216-2723
