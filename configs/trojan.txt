@@ -34,7 +34,6 @@ trojan://63779501-4c22-4a03-83d3-9f611b227e7b@cnamemc1.cdncisco4.co:443?security
 trojan://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.130209.xyz:2053?security=tls#%F0%9F%8F%81RELAY-172.64.53.89-4610
 trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.76.177-2511
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:50124?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0509
-trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:50125?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0512
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:50136?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0511
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:55016?security=tls&sni=www.lamer.com.sg#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0513
 trojan://6e4ceae4-6d81-4d87-9802-759ea5c244e5@fj3x.waimaosass.icu:56007?security=tls&sni=iosapps.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%B3CN-222.79.111.139-0501
@@ -138,7 +137,6 @@ trojan://bad06c3525a6eaee1757b34776b83892@4c2d5151.266nets.com:12001?security=tl
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.86.136-2046
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-7503
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8US-15.204.210.176-7505
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8US-216.106.186.32-0088
 trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@129.146.190.42:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-129.146.190.42-0885
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-6892
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-6890
