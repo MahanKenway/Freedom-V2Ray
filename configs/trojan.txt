@@ -171,6 +171,7 @@ trojan://humanity@209.38.109.222:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-209
 trojan://humanity@209.38.225.64:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-209.38.225.64-1923
 trojan://humanity@209.38.99.120:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-209.38.99.120-1934
 trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.136-0440
+trojan://humanity@212.227.144.37:8443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8ES-212.227.144.37-0432
 trojan://humanity@219.76.13.177:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.177-0453
 trojan://humanity@31.57.190.34:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment&Host=www.pleadcourt.org#%F0%9F%87%A6%F0%9F%87%AAAE-31.57.190.34-0458
 trojan://humanity@31.57.190.34:443?security=tls&sni=www.volumeroot.com&type=ws&path=%2Fassignment&Host=www.volumeroot.com#%F0%9F%87%A6%F0%9F%87%AAAE-31.57.190.34-0460
@@ -193,7 +194,7 @@ trojan://mitivpn@188.114.97.6:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLAN
 trojan://mitivpn@188.114.97.6:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#🇨🇦 CA | 188.114.97.6
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
 trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=Nazar.ac.ir+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#🇨🇦 CA | 188.114.97.6
-trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=d-e.mitivpn.in.net&fp=chrome&ech=cloudflare-ech.com+udp://78.157.42.100&type=ws&allowInsecure=0&sni=d-e.mitivpn.in.net#🇨🇦 CA | 188.114.97.6
+trojan://mitivpn@188.114.97.6:443?security=tls&alpn=http/1.1&insecure=0&host=de.mitivpn.in.net&fp=chrome&ech=iranva.ir+udp://1.1.1.1&type=ws&allowInsecure=0&sni=de.mitivpn.in.net#🇨🇦 CA | 188.114.97.6
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0429
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1993
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.109-4841
