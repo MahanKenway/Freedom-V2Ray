@@ -25,7 +25,6 @@ vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_
 vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.3:443?mode=auto&path=/&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#🇨🇳 CN | 122.8.45.3
 vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.3:8443?mode=gun&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=grpc&serviceName=TunService&sni=cdn.steamstatic.com#🇨🇳 CN | 122.8.45.3
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@pl1.song69.fun:20268?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 US | 191.217.211.128
-vless://444715e6-1c6a-4027-90df-fa01ac984669@rn.20066002.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gateway.icloud.com&fp=chrome&security=reality&pbk=q6WMAqAzFYui3TiWXdOJ1-E4NbiHHk5o1mx6W6m4hEM&sid=c4623fa4291795e7#🇺🇸 US | 104.223.72.232
 vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=/&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#🇺🇸 US | 8.6.112.0
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 US | 15.204.97.197
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 US | 15.204.97.206
@@ -117,10 +116,6 @@ vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.38.185.27
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.38.185.27
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.38.185.27
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.222.143
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.222.143
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.222.143
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net#🇨🇦 CA | 172.64.150.28
 vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇨🇦 CA | 104.21.91.244
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇨🇦 CA | 188.114.97.6
