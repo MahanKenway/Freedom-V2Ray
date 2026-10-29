@@ -90,7 +90,6 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 vless://ab9e2cf5-b5f5-45d1-bddf-8ea9b6fcc48f@206.1.101.85:42654?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&ech=AF/+DQBbAAAgACBb8JqRW2W15k7NBWlU1CsW+VWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA==&type=ws&allowInsecure=0&sni=206.1.101.85#🇹🇷 TR | 206.1.101.85
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#🇨🇦 CA | 104.20.6.134
 vless://ad3f4a0a-a89f-498e-9869-a93c8fa185b1@germany1.xorsand.eu:10105?security=reality&encryption=none&pbk=PFC3JN1er1JE2vAemwRhNjewz8I4NUWP4XHf2Dza4Es&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=12e321badd07906e#🇩🇪 DE | 91.107.179.0
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🏴‍☠️ UN | dorado.yokkastars.com
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇳🇱 NL | 31.77.13.22
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=/hdgrbws#🇨🇦 CA | 188.114.97.6
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
@@ -126,9 +125,6 @@ vless://e0216964-ffa1-4d39-82c4-0e40879a470d@199.195.193.91:443?security=reality
 vless://e0216964-ffa1-4d39-82c4-0e40879a470d@83.97.79.93:8443?security=reality&encryption=none&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ger.nullo.pro&sid=6350d1647a4880#🇪🇸 ES | 83.97.79.93
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@cdnjs.com:8880?path=/&security=none&encryption=none&host=up.sourceforge.sbs&type=ws#🇨🇦 CA | 104.24.196.20
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#🇨🇦 CA | 104.21.43.168
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.65.148:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.65.148
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.65.148:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.65.148
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.65.148:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.65.148
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.73.239:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.73.239
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.73.239:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.73.239
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.73.239:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.73.239
