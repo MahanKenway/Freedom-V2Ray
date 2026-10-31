@@ -145,7 +145,6 @@ trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmlunch.com&type=ws&p
 trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-104.19.229.21-0632
 trojan://humanity@104.26.14.137:443?security=tls#%F0%9F%8F%81RELAY-104.26.14.137-5467
 trojan://humanity@141.101.115.104:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-141.101.115.104-0533
-trojan://humanity@144.31.205.106:443?security=tls&sni=www.pleadcourt.org#%F0%9F%87%A9%F0%9F%87%AADE-144.31.205.106-2764
 trojan://humanity@161.35.192.122:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment&Host=www.pleadcourt.org#%F0%9F%87%A9%F0%9F%87%AADE-161.35.192.122-0479
 trojan://humanity@162.159.84.189:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com#🇨🇦 CA | 162.159.84.189
 trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com#%F0%9F%8F%81RELAY-162.159.91.211-2804
@@ -163,7 +162,6 @@ trojan://humanity@185.255.179.166:443?security=tls&sni=www.calmlunch.com&type=ws
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#🇨🇦 CA | 188.114.97.6
 trojan://humanity@188.226.181.61:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment&Host=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1NL-188.226.181.61-0480
 trojan://humanity@209.38.99.120:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-209.38.99.120-0483
-trojan://humanity@212.227.144.37:8443?security=tls&sni=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8ES-212.227.144.37-2740
 trojan://humanity@219.76.13.177:443?security=tls&sni=www.pleadcourt.org&type=ws&path=%2Fassignment&Host=www.pleadcourt.org#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.177-0481
 trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#🇩🇪 DE | 45.128.76.242
 trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#🇩🇪 DE | 45.128.76.242
@@ -192,3 +190,4 @@ trojan://mitivpn@199.232.9.244:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@M
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-2846
 trojan://trojan@104.18.35.86:8443?security=tls&sni=longwanghen.pages.dev&type=ws&path=/&Host=longwanghen.pages.dev#%F0%9F%8F%81RELAY-104.18.35.86-0534
 trojan://xxoo@138.124.183.216:443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-138.124.183.216-3355
+trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-4638
