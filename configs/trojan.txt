@@ -20,7 +20,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&sni=co
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.89-0496
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=www.connectingpeoplewithgreatjobs.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.152.147.89-3166
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&sni=resources.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.158-0111
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com#🇺🇸 US | 216.152.155.176
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.176-0237
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&sni=courses.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.23-0109
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&sni=learn.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.54-0235
@@ -94,6 +93,7 @@ trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=molt
 trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc.ciscocdn1.live:443?security=tls&sni=c3mc.ciscocdn1.live&type=ws&path=/ywQ9KSLI4ZBm9wOAXUaN&Host=c3mc.ciscocdn1.live#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.210-8022
 trojan://5t6i121em5lkmsmk@130.94.52.157:46298?security=tls&sni=ph001.zestapp778.com#%F0%9F%87%B5%F0%9F%87%ADPH-130.94.52.157-0763
 trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?security=tls&sni=ca001.zestapp778.com#%F0%9F%87%A8%F0%9F%87%A6CA-216.128.185.90-3168
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&sni=in002.zestapp778.com#%F0%9F%87%AE%F0%9F%87%B3IN-139.84.210.39-0203
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com#%F0%9F%87%B5%F0%9F%87%ADPH-130.94.52.157-0764
 trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?security=tls&sni=us001.zestapp778.com#%F0%9F%87%BA%F0%9F%87%B8US-130.94.19.95-3203
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-162.4.84.255-3894
@@ -310,7 +310,6 @@ trojan://humanity@104.19.64.105:443?security=tls&sni=www.calmlunch.com&type=ws&p
 trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.26.14.137-1219
 trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.26.15.137-1331
 trojan://humanity@104.26.3.162:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%8F%81RELAY-104.26.3.162-0887
-trojan://humanity@104.27.201.80:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 104.27.201.80
 trojan://humanity@108.162.194.134:443?security=tls&sni=www.pleadcourt.org#%F0%9F%8F%81RELAY-108.162.194.134-2107
 trojan://humanity@108.165.236.229:443?security=tls&sni=www.cordweave.com#%F0%9F%87%A9%F0%9F%87%AADE-108.165.236.229-2103
 trojan://humanity@109.248.170.245:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%B0%F0%9F%87%BFKZ-109.248.170.245-0854
@@ -323,7 +322,6 @@ trojan://humanity@153.56.171.216:443?security=tls&sni=www.cordweave.com&type=ws&
 trojan://humanity@161.35.192.122:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment&Host=www.pleadcourt.org#%F0%9F%87%A9%F0%9F%87%AADE-161.35.192.122-0524
 trojan://humanity@162.159.128.253:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%8F%81RELAY-162.159.128.253-0879
 trojan://humanity@162.159.153.4:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%8F%81RELAY-162.159.153.4-1235
-trojan://humanity@162.159.228.224:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 162.159.228.224
 trojan://humanity@162.159.253.41:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-162.159.253.41-1199
 trojan://humanity@162.159.58.65:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%8F%81RELAY-162.159.58.65-0851
 trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-162.159.91.211-1192
@@ -333,7 +331,6 @@ trojan://humanity@168.143.108.38:443?security=tls&sni=www.cordweave.com&type=ws&
 trojan://humanity@172.104.185.40:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.185.40-0872
 trojan://humanity@172.104.81.253:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%AF%F0%9F%87%B5JP-172.104.81.253-0667
 trojan://humanity@172.237.0.160:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%AF%F0%9F%87%B5JP-172.237.0.160-0856
-trojan://humanity@172.64.145.133:443?path=/assignment&security=tls&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 CA | 172.64.145.133
 trojan://humanity@172.64.151.20:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%8F%81RELAY-172.64.151.20-0691
 trojan://humanity@172.64.153.224:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%8F%81RELAY-172.64.153.224-0677
 trojan://humanity@172.64.229.7:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%8F%81RELAY-172.64.229.7-0642
@@ -413,10 +410,10 @@ trojan://humanity@89.116.46.68:443?security=tls&sni=www.calmloud.com&type=ws&pat
 trojan://humanity@89.36.137.173:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%B9%F0%9F%87%B7TR-89.36.137.173-0680
 trojan://humanity@91.196.32.217:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%B7%F0%9F%87%BARU-91.196.32.217-0685
 trojan://humanity@91.250.248.151:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%AC%F0%9F%87%B7GR-91.250.248.151-0871
+trojan://humanity@93.85.236.9:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%A7%F0%9F%87%BEBY-93.85.236.9-0692
 trojan://humanity@93.86.12.49:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%B7%F0%9F%87%B8RS-93.86.12.49-0668
 trojan://humanity@95.182.95.144:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%A8%F0%9F%87%BFCZ-95.182.95.144-0846
 trojan://humanity@95.85.32.57:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-95.85.32.57-0525
-trojan://humanity@CHATGPT.com:443?path=/assignment?Telegram---Config7x--CONFIG7X&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 2606:4700:4408::ac40:9bd1
 trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.73.213-1287
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-104.18.9.83-0511
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.26.14.137-1203
