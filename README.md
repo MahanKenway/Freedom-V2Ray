@@ -53,9 +53,25 @@ Want to help? Please see our [Contributing Guide](CONTRIBUTING.md).
 | **Shadowsocks** | [Raw](https://raw.githubusercontent.com/MahanKenway/Freedom-V2Ray/main/configs/ss.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/Freedom-V2Ray/main/configs/ss_sub.txt) |
 | **Trojan** | [Raw](https://raw.githubusercontent.com/MahanKenway/Freedom-V2Ray/main/configs/trojan.txt) | [Sub](https://raw.githubusercontent.com/MahanKenway/Freedom-V2Ray/main/configs/trojan_sub.txt) |
 
+
 ### 🤝 مشارکت در پروژه
+
+
+
+
+
+
 می‌خواهید کمک کنید؟ لطفاً [راهنمای مشارکت](CONTRIBUTING.md) را مطالعه کنید.
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=mahankenway%2Ffreedom-v2ray&type=timeline&releases=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=mahankenway/freedom-v2ray&type=timeline&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=mahankenway/freedom-v2ray&type=timeline&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=mahankenway/freedom-v2ray&type=timeline&legend=bottom-right" />
+ </picture>
+</a>
 ---
 🕊️ **For a Free Iran - برای آزادی ایران**
 *Created by MahanKenway*
